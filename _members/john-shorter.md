@@ -7,7 +7,6 @@ aliases:
   - J. Shorter
   - JR Shorter
 links:
-  home-page: [https://forskning.ruc.dk/da/persons/johnsh]
   orcid: [0000-0003-4732-5526]
 ---
 
