@@ -1,20 +1,15 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: John R. Shorter
+image: images/20220911_164148.png
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Roskilde University
 aliases:
-  - J. Smith
-  - J Smith
+  - J. Shorter
+  - JR Shorter
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: [https://forskning.ruc.dk/da/persons/johnsh]
+  orcid: [0000-0003-4732-5526]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+John Shorter is an Assistant Professor in Biomedical Data Science at Roskilde University (RUC), in the Department of Science and the Environment, and affiliated with researcher with the Institute of Biological Psychiatry (IBP) at Sct Hans in Roskilde, and the PandemiX Center at RUC, as well as a member of the Young Academy Panel for the Danish Data Science Academy (DDSA). 
+His research focuses on understanding the genetic mechanisms of disease, and the development and use of  polygenic risk scores for disease prediction. 
