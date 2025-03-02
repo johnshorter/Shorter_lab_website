@@ -4,7 +4,7 @@ image: images/20220911_164148.png
 role: principal-investigator
 affiliation: Roskilde University
 aliases:
-  - J. Shorter
+  - John Shorter
   - JR Shorter
 links:
   orcid: [0000-0003-4732-5526]
