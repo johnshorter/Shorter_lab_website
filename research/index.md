@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A central aim of our research is to discover new mechanistic insights into disease etiology and then translate these insights into actionable strategies for patient care. By integrating genomics, epidemiology, and computational biology within a framework of personalized medicine, we aim to accelerate the translation of basic discoveries into improved patient outcomes.
 
 {% include section.html %}
 
