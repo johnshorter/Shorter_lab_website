@@ -692,31 +692,69 @@
   john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1001/jamapsychiatry.2024.1453
+  title: Population-Based Risk of Psychiatric Disorders Associated With Recurrent
+    Copy Number Variants
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Morteza Vaez
+  - Simone Montalbano
+  - "Xabier Calle S\xE1nchez"
+  - Kajsa-Lotta Georgii Hellberg
+  - Saeid Rasekhi Dehkordi
+  - Morten Dybdahl Krebs
+  - Joeri Meijsen
+  - John Shorter
+  - Jonas Bybjerg-Grauholm
+  - Preben B. Mortensen
+  - "Anders D. B\xF8rglum"
+  - David M. Hougaard
+  - Merete Nordentoft
+  - Daniel H. Geschwind
+  - Alfonso Buil
+  - Andrew J. Schork
+  - Dorte Helenius
+  - Armin Raznahan
+  - Wesley K. Thompson
+  - Thomas Werge
+  - "Andr\xE9s Ingason"
+  - "Anders D. B\xF8rglum"
+  - David M. Hougaard
+  - Merete Nordentoft
+  - Ole Mors
+  - Preben B. Mortensen
+  - Thomas Werge
+  - Jakob Grove
+  - Thomas D. Als
+  - Alfonso Buil
+  - Anders Rosengren
+  - "Andr\xE9s Ingason"
+  - Andrew J. Schork
+  - Dorte Helenius
+  - "Jesper G\xE5din"
+  - Richard Zetterberg
+  - Vivek Appadurai
+  - Joeri Meijsen
+  - Kajsa-Lotta Georgii Hellberg
+  - "Bjarni J. Vilhj\xE1lmsson"
+  - Carsten B. Pedersen
+  - Esben Agerbo
+  - Jakob Christensen
+  - Liselotte V. Petersen
+  - "Marianne Gj\xF8rtz Pedersen"
+  - Jonas Byberg-Grauholm
+  - "Marie B\xE6kvad-Hansen"
+  publisher: JAMA Psychiatry
+  date: '2024-10-02'
+  link: https://doi.org/g86s65
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: To provide unbiased population-based estimates of prevalence and risk
+    associated with psychiatric disorders for rCNVs and to compare risks across outcomes,
+    rCNV dosage type (deletions or duplications), and locus features.
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/psych/939472/yoi240033f1_1727819432.01804.png?Expires=1742313049&Signature=D4~jqWVZjZyL6GmLwEtYHxdXKBsn2Gt4v42q~ZGSSKlV9DBaqnyDjjNMdNaoFac4tcb8il8FBuYAZ1VAQDtHRZN47PICvOQi2YBXJLB3zfgLXEgwmKYFFYxLQq8VHygKmiv-l5BBIv6Xj1cIZaNpmulMnj4XLByGdxlg9znyvVx97eYVhFgLjGTBX9ZqvYTh1eO0zmKQ0RTKm0KpQLkQtmFMyYZSbZUyIy6fzSUMuOUAORTjcCi2TV2k8TExNw0mKkRqvIenUcZ35f3bXgvD0kPf3Dt-yYB8PBm06Ivj0BY-G9GbM8fDVEht-kIS9UhzvZEatKT4e~KQ~tMNTvdKAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
     text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+    link: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2820398
   tags:
   - open science
   - collaboration
