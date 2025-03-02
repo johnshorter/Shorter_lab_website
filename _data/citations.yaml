@@ -31,6 +31,7 @@
   date: '2024-06-13'
   link: https://doi.org/gt25tn
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.biopsych.2022.01.007
@@ -52,6 +53,7 @@
   date: '2022-08-01'
   link: https://doi.org/g86s5p
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2022.07.124
@@ -70,6 +72,7 @@
   date: '2022-10-01'
   link: https://doi.org/g86s5q
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000850044000120
@@ -79,6 +82,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000850044000120
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2022.07.259
@@ -102,6 +106,7 @@
   date: '2022-10-01'
   link: https://doi.org/gr27gh
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2022.07.165
@@ -119,6 +124,7 @@
   date: '2022-10-01'
   link: https://doi.org/g86s5t
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2022.07.070
@@ -138,6 +144,7 @@
   date: '2022-10-01'
   link: https://doi.org/gr27xb
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2021.07.163
@@ -156,6 +163,7 @@
   date: '2021-10-01'
   link: https://doi.org/g86s5v
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000714115400150
@@ -165,6 +173,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000714115400150
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2021.07.120
@@ -188,6 +197,7 @@
   date: '2021-10-01'
   link: https://doi.org/g86s5x
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/epi.16617
@@ -209,6 +219,7 @@
   date: '2020-08-27'
   link: https://doi.org/g86s5z
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.03.12.989400
@@ -290,6 +301,7 @@
   date: '2020-03-14'
   link: https://doi.org/gk3kp4
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/genetics.120.303596
@@ -369,6 +381,7 @@
   date: '2020-12-01'
   link: https://doi.org/gst8jk
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/690917
@@ -390,6 +403,7 @@
   date: '2019-07-15'
   link: https://doi.org/gkwntb
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/g3.118.200847
@@ -410,6 +424,7 @@
   date: '2019-05-01'
   link: https://doi.org/gsw78g
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00335-018-9789-9
@@ -428,6 +443,7 @@
   date: '2018-12-04'
   link: https://doi.org/g86s52
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/858142
@@ -444,6 +460,7 @@
   date: '2019-11-29'
   link: https://doi.org/gktrkf
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/g3.119.400039
@@ -467,6 +484,7 @@
   date: '2019-05-01'
   link: https://doi.org/gf7ckp
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/458877
@@ -487,6 +505,7 @@
   date: '2018-10-31'
   link: https://doi.org/gk3kwx
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00335-017-9730-7
@@ -505,6 +524,7 @@
   date: '2017-12-26'
   link: https://doi.org/gc72rp
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/genetics.116.198838
@@ -532,6 +552,7 @@
   date: '2017-06-01'
   link: https://doi.org/gbh8wm
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/genetics.116.199596
@@ -561,6 +582,7 @@
   date: '2017-06-01'
   link: https://doi.org/gbjft6
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/g3.116.034595
@@ -580,6 +602,7 @@
   date: '2016-10-01'
   link: https://doi.org/g86s53
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1510104112
@@ -597,6 +620,7 @@
   date: '2015-06-22'
   link: https://doi.org/f7jk8v
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0134612
@@ -613,6 +637,7 @@
   date: '2015-07-30'
   link: https://doi.org/gjk5tq
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10519-012-9530-5
@@ -626,6 +651,7 @@
   date: '2012-02-11'
   link: https://doi.org/f35mk9
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00040-011-0210-x
@@ -637,6 +663,7 @@
   date: '2011-12-04'
   link: https://doi.org/frcrxw
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00265-009-0764-z
@@ -649,6 +676,7 @@
   date: '2009-04-25'
   link: https://doi.org/d4vpv6
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00040-008-1026-1
@@ -661,6 +689,7 @@
   date: '2008-09-15'
   link: https://doi.org/d5c73z
   orcid: 0000-0003-4732-5526
+  john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
