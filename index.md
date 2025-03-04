@@ -74,7 +74,7 @@ See our current team!
 
 {%
   include feature.html
-  image="images/20220911_164148.png"
+  image="images/20240603_114954.jpg"
   link="team"
   title="Our Team"
   text=text
