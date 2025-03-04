@@ -26,7 +26,7 @@ A central aim of our research is to discover new mechanistic insights into disea
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/m_cover.gif"
   link="research"
   title="Our Research"
   text=text
