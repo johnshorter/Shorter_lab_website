@@ -1,10 +1,8 @@
 ---
 name: Esraa Ayad Al-Meshaiki
-image: images/photo.jpg
+image: images/20250225_121240.jpg
 role: Master student
 group: alum
-links:
-  github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The influence of CYP2C19 genetic variants on the therapeutic efficacy and safety of Clopidogrel in stroke patients.
