@@ -30,6 +30,8 @@ A central aim of our research is to discover new mechanistic insights into disea
   link="research"
   title="Our Research"
   text=text
+  width="400px"
+  height="600px"
 %}
 
 {% capture text %}
