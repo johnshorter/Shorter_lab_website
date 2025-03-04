@@ -19,7 +19,7 @@ Please email John if you are interested in a collaboration or would like to join
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/NcSb5j6JLUGYFFnj7)"
+  link="https://maps.app.goo.gl/NcSb5j6JLUGYFFnj7"
 %}
 
 {% include section.html %}
