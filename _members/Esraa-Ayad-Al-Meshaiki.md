@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Esraa Ayad Al-Meshaiki
 image: images/photo.jpg
-role: phd
+role: Master student
 group: alum
 links:
   github: john-doe
