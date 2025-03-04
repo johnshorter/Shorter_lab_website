@@ -19,3 +19,39 @@
   
 - id: doi:10.1016/J.EURONEURO.2022.07.259
   remove: true
+
+- id: pubmed:33067325
+  remove: true
+  
+- id: pubmed:32852103
+  remove: true
+  
+- id: doi:10.1101/2020.03.12.989400
+  remove: true
+  
+- id: doi:10.1101/690917
+  remove: true
+
+- id: pubmed:30858237
+  remove: true
+
+- id: pubmed:30877080
+  remove: true
+
+- id: pubmed:30515527
+  remove: true
+
+- id: doi:10.1007/s00335-018-9789-9
+  remove: true
+
+- id: pubmed:29279960
+  remove: true
+
+- id: pubmed:28592495
+  remove: true
+
+- id: pubmed:28592496
+  remove: true
+
+- id: pubmed:27558663
+  remove: true
