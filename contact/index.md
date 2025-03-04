@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please email John if you are interested in a collaboration or would like to join the team at Roskilde University, Denmark!
+Please email John if you are interested in a collaboration or if you would like to join the team at Roskilde University, Denmark!
 
 {%
   include button.html
@@ -28,8 +28,8 @@ Please email John if you are interested in a collaboration or would like to join
 
 {%
   include figure.html
-  image="101-scaled-1024x683-2449328099.jpg"
-  caption="Student Celebration"
+  image="images/101-scaled-1024x683-2449328099.jpg"
+  caption="Student celebration at the lake"
 %}
 
 {% endcapture %}
@@ -39,7 +39,7 @@ Please email John if you are interested in a collaboration or would like to join
 {%
   include figure.html
   image="images/Campuskort_m-kommende-ladestandere_2025-02-28_0.jpg"
-  caption="Campus Directions"
+  caption="Campus map"
 %}
 
 {% endcapture %}
