@@ -8,7 +8,6 @@
       text: Manuscript Source
       link: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2820398
 
-# some paper returned by an ORCID that you don't want to keep at all
 - id: pubmed:38871766
   remove: true
 
@@ -16,4 +15,7 @@
   remove: true
 
 - id: pubmed:35305821
+  remove: true
+  
+- id: doi:10.1016/J.EURONEURO.2022.07.259
   remove: true
