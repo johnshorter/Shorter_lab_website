@@ -6,4 +6,4 @@ affiliation: Roskilde University
 group: alum
 ---
 
-The influence of CYP2C19 genetic variants on the therapeutic efficacy and safety of Clopidogrel in stroke patients.
+Esraa successfully defended her thesis in 2025, which was titled: The influence of CYP2C19 genetic variants on the therapeutic efficacy and safety of Clopidogrel in stroke patients.
