@@ -60,35 +60,6 @@
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:26226016
-  title: The Effects of Royal Jelly on Fitness Traits and Gene Expression in Drosophila
-    melanogaster.
-  authors:
-  - John R Shorter
-  - Matthew Geisz
-  - "Ergi \xD6zsoy"
-  - Michael M Magwire
-  - Mary Anna Carbone
-  - Trudy F C Mackay
-  publisher: PloS one
-  date: '2015-07-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26226016
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:22327626
-  title: A genetic analysis of the stinging and guarding behaviors of the honey bee.
-  authors:
-  - John R Shorter
-  - Miguel Arechavaleta-Velasco
-  - Carlos Robles-Rios
-  - Greg J Hunt
-  publisher: Behavior genetics
-  date: '2012-02-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22327626
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: doi:10.1038/s41467-024-49507-3
   title: Quantifying the relative importance of genetics and environment on the comorbidity
     between mental and cardiometabolic disorders using 17 million Scandinavians
@@ -164,16 +135,6 @@
   john-shorter: true
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000850044000120
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000850044000120
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/J.EURONEURO.2022.07.165
   title: 80. QUANTIFYING THE ASSORTATIVE MATING OF PSYCHIATRIC DISORDERS AND ITS CONSEQUENCES
     IN DANISH POPULATION
@@ -227,16 +188,6 @@
   publisher: European Neuropsychopharmacology
   date: '2021-10-01'
   link: https://doi.org/g86s5v
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000714115400150
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000714115400150
   orcid: 0000-0003-4732-5526
   john-shorter: true
   plugin: orcid.py
@@ -425,27 +376,6 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2019-05-01'
   link: https://doi.org/gf7ckp
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/458877
-  title: A diallel of the mouse Collaborative Cross founders reveals strong strain-specific
-    maternal effects on litter size
-  authors:
-  - John R. Shorter
-  - Paul L. Maurizio
-  - Timothy A. Bell
-  - Ginger D. Shaw
-  - Darla R. Miller
-  - Terry J. Gooch
-  - Jason S. Spence
-  - Leonard McMillan
-  - William Valdar
-  - Fernando Pardo-Manuel de Villena
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-10-31'
-  link: https://doi.org/gk3kwx
   orcid: 0000-0003-4732-5526
   john-shorter: true
   plugin: orcid.py
