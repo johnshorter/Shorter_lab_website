@@ -28,7 +28,7 @@ Please email John if you are interested in a collaboration or would like to join
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/Campuskort_m-kommende-ladestandere_2025-02-28_0.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -38,7 +38,7 @@ Please email John if you are interested in a collaboration or would like to join
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/Campuskort_m-kommende-ladestandere_2025-02-28_0.jpg"
   caption="Lorem ipsum"
 %}
 
