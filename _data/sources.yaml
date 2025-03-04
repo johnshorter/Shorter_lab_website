@@ -7,3 +7,13 @@
     - type: source
       text: Manuscript Source
       link: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2820398
+
+# some paper returned by an ORCID that you don't want to keep at all
+- id: pubmed:38871766
+  remove: true
+
+- id: pubmed:38464139
+  remove: true
+
+- id: pubmed:35305821
+  remove: true
