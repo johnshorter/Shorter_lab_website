@@ -1,38 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: pubmed:38871766
-  title: Quantifying the relative importance of genetics and environment on the comorbidity
-    between mental and cardiometabolic disorders using 17 million Scandinavians.
-  authors:
-  - Joeri Meijsen
-  - Kejia Hu
-  - Morten D Krebs
-  - Georgios Athanasiadis
-  - Sarah Washbrook
-  - Richard Zetterberg
-  - Raquel Nogueira Avelar E Silva
-  - John R Shorter
-  - "Jesper R G\xE5din"
-  - Jacob Bergstedt
-  - David M Howard
-  - Weimin Ye
-  - Yi Lu
-  - "Unnur A Valdimarsd\xF3ttir"
-  - "Andr\xE9s Ingason"
-  - Dorte Helenius
-  - Oleguer Plana-Ripoll
-  - John J McGrath
-  - Nadia Micali
-  - Ole A Andreassen
-  - Thomas M Werge
-  - Fang Fang
-  - Alfonso Buil
-  publisher: Nature communications
-  date: '2024-06-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38871766
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:38808072
   title: 'COSGAP: COntainerized Statistical Genetics Analysis Pipelines.'
   authors:
@@ -57,40 +24,6 @@
   publisher: Bioinformatics advances
   date: '2024-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38808072
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:38464139
-  title: 'Quantifying the Relative Importance of Genetics and Environment on the Comorbidity
-    between Mental- and Cardiometabolic Disorders: A Comprehensive Analysis of National
-    Register Data from 17 million Scandinavians.'
-  authors:
-  - Joeri Meijsen
-  - Kejia Hu
-  - Morten Dybdahl Krebs
-  - Georgios Athanasiadis
-  - Sarah Washbrook
-  - Richard Zetterberg
-  - Raquel Nogueira Avelar E Silva
-  - John R Shorter
-  - "Jesper R G\xE5din"
-  - Jacob Bergstedt
-  - David M Howard
-  - Weimin Ye
-  - Yi Lu
-  - "Unnur A Valdimarsd\xF3ttir"
-  - "Andr\xE9s Ingason"
-  - Dorte Helenius Mikkelsen
-  - Oleguer Plana-Ripoll
-  - John J McGrath
-  - Nadia Micali
-  - Ole A Andreassen
-  - Thomas M Werge
-  - Fang Fang
-  - Alfonso Buil
-  publisher: 'medRxiv : the preprint server for health sciences'
-  date: '2024-02-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38464139
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -124,27 +57,6 @@
   publisher: The Lancet regional health. Europe
   date: '2023-03-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37265784
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:35305821
-  title: Infection Polygenic Factors Account for a Small Proportion of the Relationship
-    Between Infections and Mental Disorders.
-  authors:
-  - John R Shorter
-  - Joeri Meijsen
-  - Ron Nudel
-  - Morten Krebs
-  - "Jesper G\xE5din"
-  - Dorte H Mikkelsen
-  - Raquel Nogueira Avelar E Silva
-  - Michael E Benros
-  - Wesley K Thompson
-  - "Andr\xE9s Ingason"
-  - Thomas Werge
-  publisher: Biological psychiatry
-  date: '2022-01-24'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35305821
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: pubmed.py
   file: pubmed.yaml
