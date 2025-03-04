@@ -55,3 +55,19 @@
 
 - id: pubmed:27558663
   remove: true
+
+- id: doi:10.1101/458877
+  remove: true
+
+- id: pubmed:26226016
+  remove: true
+
+- id: pubmed:22327626
+  remove: true
+
+- id: wosuid:WOS:000714115400150
+  remove: true
+
+- id: wosuid:WOS:000850044000120
+  remove: true
+  
