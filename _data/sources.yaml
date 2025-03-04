@@ -1,12 +1,9 @@
 - id: doi:10.1001/jamapsychiatry.2024.1453
   type: paper
-  description: To provide unbiased population-based estimates of prevalence and risk associated with psychiatric disorders for rCNVs and to compare risks across outcomes, rCNV dosage type (deletions or duplications), and locus features.
+  description: The objective of this project was to provide unbiased population-based estimates of prevalence and risk associated with psychiatric disorders for rCNVs and to compare risks across outcomes, rCNV dosage type (deletions or duplications), and locus features.
   date: 2024-10-2
   image: https://cdn.jamanetwork.com/ama/content_public/journal/psych/939472/yoi240033f1_1727819432.01804.png?Expires=1742313049&Signature=D4~jqWVZjZyL6GmLwEtYHxdXKBsn2Gt4v42q~ZGSSKlV9DBaqnyDjjNMdNaoFac4tcb8il8FBuYAZ1VAQDtHRZN47PICvOQi2YBXJLB3zfgLXEgwmKYFFYxLQq8VHygKmiv-l5BBIv6Xj1cIZaNpmulMnj4XLByGdxlg9znyvVx97eYVhFgLjGTBX9ZqvYTh1eO0zmKQ0RTKm0KpQLkQtmFMyYZSbZUyIy6fzSUMuOUAORTjcCi2TV2k8TExNw0mKkRqvIenUcZ35f3bXgvD0kPf3Dt-yYB8PBm06Ivj0BY-G9GbM8fDVEht-kIS9UhzvZEatKT4e~KQ~tMNTvdKAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  buttons:
-    - type: source
-      text: Manuscript Source
-      link: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2820398
+
 
 - id: pubmed:38871766
   remove: true
