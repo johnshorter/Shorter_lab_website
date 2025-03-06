@@ -49,7 +49,7 @@ Read more about our latest projects!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Figure0-graphicalabstract.png"
   link="projects"
   title="Our Projects"
   flip=true
