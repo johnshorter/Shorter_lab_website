@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Does early onset major depressive disorder have a stronger genetic component?
+  subtitle: Genome-wide association study using Nordic biobank and longitudinal health registry reveals different genetic architecture between early- and late-onset depression
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Studying more homogeneous groups stratified by clinical characteristics such as age of onset can improve the identification of the underlying genetic causes and lead to more targeted treatment strategies.
+  repo: 
   tags:
-    - resource
+    - publication
 
 - title: Cool Package
   subtitle: a subtitle
