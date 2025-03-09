@@ -3,44 +3,43 @@
   group: featured
   image: images/Figure 0 - graphical abstract.png
   link: 
-  description: Studying more homogeneous groups stratified by clinical characteristics such as age of onset can improve the identification of the underlying genetic causes and lead to more targeted treatment strategies.
+  description: A collaboration led by John R. Shorter at Roskilde University, in partnership with university and clinical researchers from four other Nordic countries 
   repo: 
   tags:
-    - publication
+    
 
 - title: Prevalence and Characteristics of Patients with Hypothyroidism in the Danish Blood Donor Study 
   subtitle: A sex specific analysis of hypothyroidism
   group: featured
   image: images/dbds_hypo.png
   link: 
-  description: We determined different levels of thyroid hormones (TSH, free T4, and free T3/free T4 index) among female and male cases from the DBDS, as well as increased LDL and total cholesterol levels specifically in female cases, suggesting sex-specific regulation of thyroid hormone metabolism. 
+  description: In collaboration with Louise Torp Dalgaard at Roskilde University and Ole Birger Vesterager Pedersen at the Department of Clinical Immunology, Zealand University Hospital
   repo: 
   tags:
-    - publication
+    
 
 - title: Tutorial on creating Polygenic Risk Scores
   subtitle: A workshop presented at the Nordic Society of Human Genetics NSHG
-  image: images/photo.jpg
+  image: images/NSHG2023_workshop.png
   link: https://github.com/johnshorter/NSHG-PM2023
-  description: Tutorial - a guide to performing polygenic risk score analyses with LDpred2
+  description: A deailed guide on how to use the polygenic score catalog and how to create polygenic risk scores with LDpred2
   repo: 
   tags:
-    - resource
+    
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Precision Medicine in Epilepsy
+  subtitle: Utilizing pharmacogenetics and therapeutic drug monitoring (TDM) to better understand treatment-resistant epilepsy.
+  image: images/photo.jpg
+  link: 
+  description: In collaboration with Dr. Allan Bayat at the Filadelfia epilepsy hospital, in Dianalund Denmark  
+  repo: 
+  tags:
+    
+
+- title: Advancing Personalized Medicine in Cardiovascular Disease 
+  subtitle: The Influence of CYP2C19 Genetic Variants on Clopidogrel Efficacy in Stroke Patients
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: In collaboration with Michael Asger Andersen at Bispebjerg Hospital 
+  repo: 
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
