@@ -49,13 +49,12 @@ Read more about our latest projects!
 
 {%
   include feature.html
-  image="images/Figure0-graphicalabstract.png" 
+  image="images/Figure 0 - graphical abstract.png" 
   link="projects"
   title="Our Projects"
   flip=true
   style="bare"
   text=text
-  width="400px"
 %}
 
 {% capture text %}
