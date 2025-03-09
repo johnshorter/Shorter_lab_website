@@ -19,4 +19,4 @@ We are a small but growing team!
 
 {% include section.html %}
 
-{% capture content %}
+
