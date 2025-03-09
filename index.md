@@ -55,7 +55,7 @@ Read more about our latest projects!
   flip=true
   style="bare"
   text=text
-  width="100%"
+  size="full"
 %}
 
 {% capture text %}
