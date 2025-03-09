@@ -29,7 +29,7 @@ Please email John if you are interested in a collaboration or if you would like 
 {%
   include figure.html
   image="images/101-scaled-1024x683-2449328099.jpg"
-  caption="Student celebration at the lake"
+  caption="Roskilde Univerity student celebration at the lake"
 %}
 
 {% endcapture %}
