@@ -1,19 +1,19 @@
 - title: Genome-wide association study using Nordic biobank and longitudinal health registry reveals different genetic architecture between early- and late-onset depression
-  subtitle: Studying more homogeneous groups stratified by clinical characteristics such as age of onset can improve the identification of the underlying genetic causes and lead to more targeted treatment strategies.
+  subtitle: 
   group: featured
   image: images/Figure 0 - graphical abstract.png
   link: 
-  description:
+  description: Studying more homogeneous groups stratified by clinical characteristics such as age of onset can improve the identification of the underlying genetic causes and lead to more targeted treatment strategies.
   repo: 
   tags:
     - publication
 
 - title: Prevalence and Characteristics of Patients with Hypothyroidism in the Danish Blood Donor Study 
-  subtitle: - A sex specific analysis
+  subtitle: A sex specific analysis of hypothyroidism
   group: featured
   image: images/dbds_hypo.png
   link: 
-  description: We determined different levels of thyroid hormones (TSH, free T4, and free T3/free T4 index) among female and male cases from the DBDS, as well as increased LDL and total cholesterol levels specifically in female cases, suggesting sex-specific regulation of thyroid hormone metabolism. The increased risk of hypothyroidism following childbirth can only explain a small part of the increased risk of hypothyroidism in women. 
+  description: We determined different levels of thyroid hormones (TSH, free T4, and free T3/free T4 index) among female and male cases from the DBDS, as well as increased LDL and total cholesterol levels specifically in female cases, suggesting sex-specific regulation of thyroid hormone metabolism. 
   repo: 
   tags:
     - publication
