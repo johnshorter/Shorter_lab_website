@@ -22,7 +22,7 @@
   subtitle: A workshop presented at the Nordic Society of Human Genetics NSHG
   image: images/NSHG2023_workshop.png
   link: https://github.com/johnshorter/NSHG-PM2023
-  description: A deailed guide on how to use the polygenic score catalog and how to create polygenic risk scores with LDpred2
+  description: A detailed guide on how to use the polygenic score catalog and how to create polygenic risk scores with LDpred2
   repo: 
   tags:
     
