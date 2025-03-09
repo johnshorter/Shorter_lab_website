@@ -3,7 +3,7 @@
 
 # Introducing the Shorter lab
 
-Our goal is to establish a framework for individualized treatment strategies in endocrine, neurological, and cardiovascular disorders. By integrating GWAS and functional genomics with state-of-the-art pharmacogenetics, we aspire to refine treatment options, improve clinical outcomes, and reduce the societal burden of chronic diseases. In parallel, we will continue to foster a collaborative environment that includes training new scientists in bioinformatics, genetics, and translational medicine.
+Our goal is to establish a framework for individualized treatment strategies in endocrine, neurological, and cardiovascular disorders. By integrating GWAS and functional genomics with state-of-the-art pharmacogenetics, we aspire to refine treatment options, improve clinical outcomes, and reduce the societal burden of chronic diseases. In parallel, we will continue to foster a collaborative environment that includes training new scientists in bioinformatics, genetics, and translational medicine. Our reseach utilizes large-scale national biobanks like the Danish Blood Donor Study, iPSYCH, UKB and more. We also use mouse models to further our understanding of disease biology.
 
 {% include section.html %}
 
