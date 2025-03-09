@@ -11,22 +11,21 @@
 - title: Prevalence and Characteristics of Patients with Hypothyroidism in the Danish Blood Donor Study 
   subtitle: - A sex specific analysis
   group: featured
-  image: images/photo.jpg
+  image: images/dbds_hypo.png
   link: 
   description: We determined different levels of thyroid hormones (TSH, free T4, and free T3/free T4 index) among female and male cases from the DBDS, as well as increased LDL and total cholesterol levels specifically in female cases, suggesting sex-specific regulation of thyroid hormone metabolism. The increased risk of hypothyroidism following childbirth can only explain a small part of the increased risk of hypothyroidism in women. 
   repo: 
   tags:
     - publication
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Tutorial on creating Polygenic Risk Scores
+  subtitle: A workshop presented at the Nordic Society of Human Genetics NSHG
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/johnshorter/NSHG-PM2023
+  description: Tutorial - a guide to performing polygenic risk score analyses with LDpred2
+  repo: 
   tags:
     - resource
-    - publication
 
 - title: Cool Web App
   subtitle: a subtitle
