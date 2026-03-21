@@ -1,5 +1,166 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41656002
+  title: Pharmacokinetics of Perampanel in Danish Paediatric Patients With Epilepsy
+    Based on Therapeutic Drug Monitoring.
+  authors:
+  - Sara Angelucci
+  - Morten Baltzer Houlind
+  - Maja Stjerne Hansen
+  - "Anne Forsingdal H\xF8jte Hansen"
+  - John R Shorter
+  - Allan Bayat
+  publisher: Basic & clinical pharmacology & toxicology
+  date: '2026-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41656002
+  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41233554
+  title: Genome-wide association analyses identify distinct genetic architectures
+    for early-onset and late-onset depression.
+  authors:
+  - John R Shorter
+  - "Jo\xEBlle A Pasman"
+  - Siim Kurvits
+  - Andreas Jangmo
+  - Joonas Naamanka
+  - Arvid Harder
+  - Espen Hagen
+  - Kaarina Kowalec
+  - Nelli Frilander
+  - Richard Zetterberg
+  - Joeri J Meijsen
+  - "Jesper R G\xE5din"
+  - Jacob Bergstedt
+  - Ying Xiong
+  - "Sara H\xE4gg"
+  - "Mikael Land\xE9n"
+  - "Christian R\xFCck"
+  - John Wallert
+  - Alkistis Skalkidou
+  - Elise Koch
+  - Bayram C Akdeniz
+  - Oleksandr Frei
+  - Iiris Hovatta
+  - Ted Reichborn-Kjennerud
+  - Thomas M Werge
+  - Patrick F Sullivan
+  - Ole A Andreassen
+  - Martin Tesli
+  - Kelli Lehto
+  - Alfonso Buil
+  - Yi Lu
+  publisher: Nature genetics
+  date: '2025-11-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41233554
+  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41040734
+  title: Genome-wide association study of adolescent-onset depression.
+  authors:
+  - Poppy Z Grimes
+  - Brittany L Mitchell
+  - Katherine N Thompson
+  - Qingkun Deng
+  - Xueyi Shen
+  - Jareth C Wolfe
+  - Jodi T Thomas
+  - Robyn E Wootton
+  - Daniel E Adkins
+  - Saranya Arirangan
+  - Elham Assary
+  - Chris Chatzinakos
+  - Charlotte A Dennison
+  - Swathi Hassan Gangaraju
+  - Andreas Jangmo
+  - Yeongmi Jeong
+  - Siim Kurvits
+  - Qingqin S Li
+  - Ehsan Motazedi
+  - Joonas Naamanka
+  - Thuy-Dung Nguyen
+  - Ilja M Nolte
+  - Vanessa K Ota
+  - "Jo\xEBlle A Pasman"
+  - Mina Shahisavandi
+  - Amy Shakeshaft
+  - John R Shorter
+  - Chloe Slaney
+  - Martin Tesli
+  - Carol A Wang
+  - Uxue Zubizarreta-Arruti
+  - Silvia Alemany
+  - Ole A Andreassen
+  - Helga Ask
+  - Sintia I Belangero
+  - Rosa Bosch
+  - Gerome Breen
+  - Rodrigo A Bressan
+  - Alfonso Buil
+  - Enda M Byrne
+  - Miquel Casas
+  - William E Copeland
+  - Thalia C Eley
+  - Laurie J Hannigan
+  - Catharina A Hartman
+  - Alexandra Havdahl
+  - Ian B Hickie
+  - Golam M Khandaker
+  - Kelli Lehto
+  - Hermine Maes
+  - Nicholas G Martin
+  - Alexander Neumann
+  - Albertine J Oldehinkel
+  - Pedro M Pan
+  - Hong Pan
+  - Craig E Pennell
+  - Roseann E Peterson
+  - Alina Rodriguez
+  - Giovanni A Salum
+  - Tanja Gm Vrijkotte
+  - Robbee Wedow
+  - Andrew Jo Whitehouse
+  - Anita Thapar
+  - Henrik Larsson
+  - Christel M Middeldorp
+  - Andrew McIntosh
+  - Mark J Adams
+  - Yi Lu
+  - Heather C Whalley
+  - Alex Sf Kwong
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2025-09-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41040734
+  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40962829
+  title: 'Associations of polygenic risk scores for major depression and depression
+    severity: an investigation of 105 623 individuals with 16 years follow-up.'
+  authors:
+  - Marit Haram
+  - Andreas Jangmo
+  - Piotr Jaholkowski
+  - "Jo\xEBlle Pasman"
+  - Joeri Meijsen
+  - John R Shorter
+  - Elizabeth C Corfield
+  - Oleksandr Frei
+  - Ted Reichborn-Kjennerud
+  - Alfonso Buil
+  - Yi Lu
+  - Thomas Werge
+  - Patrick Sullivan
+  - Ole A Andreassen
+  - Martin Tesli
+  publisher: Molecular psychiatry
+  date: '2025-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40962829
+  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38808072
   title: 'COSGAP: COntainerized Statistical Genetics Analysis Pipelines.'
   authors:
@@ -60,6 +221,65 @@
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.1111/bcpt.70209
+  title: Pharmacokinetics of Perampanel in Danish Paediatric Patients With Epilepsy
+    Based on Therapeutic Drug Monitoring
+  authors:
+  - Sara Angelucci
+  - "Morten\_Baltzer Houlind"
+  - "Maja\_Stjerne Hansen"
+  - "Anne\_Forsingdal\_H\xF8jte Hansen"
+  - "John\_R. Shorter"
+  - Allan Bayat
+  publisher: Basic &amp; Clinical Pharmacology &amp; Toxicology
+  date: '2026-02-08'
+  link: https://doi.org/hbtc5z
+  orcid: 0000-0003-4732-5526
+  john-shorter: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-025-02396-8
+  title: Genome-wide association analyses identify distinct genetic architectures
+    for early-onset and late-onset depression
+  authors:
+  - John R. Shorter
+  - "Jo\xEBlle A. Pasman"
+  - Siim Kurvits
+  - Andreas Jangmo
+  - Joonas Naamanka
+  - Arvid Harder
+  - Espen Hagen
+  - Kaarina Kowalec
+  - Nelli Frilander
+  - Richard Zetterberg
+  - Joeri J. Meijsen
+  - "Jesper R. G\xE5din"
+  - Jacob Bergstedt
+  - Ying Xiong
+  - "Sara H\xE4gg"
+  - "Mikael Land\xE9n"
+  - "Christian R\xFCck"
+  - John Wallert
+  - Alkistis Skalkidou
+  - Elise Koch
+  - Bayram C. Akdeniz
+  - Oleksandr Frei
+  - Iiris Hovatta
+  - Ted Reichborn-Kjennerud
+  - Thomas M. Werge
+  - Patrick F. Sullivan
+  - Ole A. Andreassen
+  - Martin Tesli
+  - Kelli Lehto
+  - Alfonso Buil
+  - Yi Lu
+  publisher: Nature Genetics
+  date: '2025-11-13'
+  link: https://doi.org/hbbp9k
+  orcid: 0000-0003-4732-5526
+  john-shorter: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-024-49507-3
   title: Quantifying the relative importance of genetics and environment on the comorbidity
     between mental and cardiometabolic disorders using 17 million Scandinavians
@@ -349,7 +569,7 @@
   - John Shorter
   - Fernando Pardo Manuel de Villena
   - Leonard McMillan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-11-29'
   link: https://doi.org/gktrkf
   orcid: 0000-0003-4732-5526
