@@ -221,6 +221,65 @@
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.1111/bcpt.70209
+  title: Pharmacokinetics of Perampanel in Danish Paediatric Patients With Epilepsy
+    Based on Therapeutic Drug Monitoring
+  authors:
+  - Sara Angelucci
+  - "Morten\_Baltzer Houlind"
+  - "Maja\_Stjerne Hansen"
+  - "Anne\_Forsingdal\_H\xF8jte Hansen"
+  - "John\_R. Shorter"
+  - Allan Bayat
+  publisher: Basic &amp; Clinical Pharmacology &amp; Toxicology
+  date: '2026-02-08'
+  link: https://doi.org/hbtc5z
+  orcid: 0000-0003-4732-5526
+  john-shorter: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-025-02396-8
+  title: Genome-wide association analyses identify distinct genetic architectures
+    for early-onset and late-onset depression
+  authors:
+  - John R. Shorter
+  - "Jo\xEBlle A. Pasman"
+  - Siim Kurvits
+  - Andreas Jangmo
+  - Joonas Naamanka
+  - Arvid Harder
+  - Espen Hagen
+  - Kaarina Kowalec
+  - Nelli Frilander
+  - Richard Zetterberg
+  - Joeri J. Meijsen
+  - "Jesper R. G\xE5din"
+  - Jacob Bergstedt
+  - Ying Xiong
+  - "Sara H\xE4gg"
+  - "Mikael Land\xE9n"
+  - "Christian R\xFCck"
+  - John Wallert
+  - Alkistis Skalkidou
+  - Elise Koch
+  - Bayram C. Akdeniz
+  - Oleksandr Frei
+  - Iiris Hovatta
+  - Ted Reichborn-Kjennerud
+  - Thomas M. Werge
+  - Patrick F. Sullivan
+  - Ole A. Andreassen
+  - Martin Tesli
+  - Kelli Lehto
+  - Alfonso Buil
+  - Yi Lu
+  publisher: Nature Genetics
+  date: '2025-11-13'
+  link: https://doi.org/hbbp9k
+  orcid: 0000-0003-4732-5526
+  john-shorter: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-024-49507-3
   title: Quantifying the relative importance of genetics and environment on the comorbidity
     between mental and cardiometabolic disorders using 17 million Scandinavians
