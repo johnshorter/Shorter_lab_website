@@ -2,11 +2,20 @@
 cite process to convert sources and metasources into full citations
 """
 
+import re
 import traceback
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
 from util import *
+
+
+def normalize_title(title):
+    """Normalize title for comparison: lowercase, strip punctuation and whitespace."""
+    title = title.lower().strip()
+    title = re.sub(r'[^\w\s]', '', title)
+    title = re.sub(r'\s+', ' ', title)
+    return title
 
 
 # load environment variables
@@ -105,6 +114,22 @@ for a in range(0, len(sources)):
         b_id = get_safe(sources, f"{b}.id", "")
         if b_id == a_id:
             log(f"Found duplicate {b_id}", indent=2)
+            sources[a].update(sources[b])
+            sources[b] = {}
+sources = [entry for entry in sources if entry]
+
+
+log("Merging sources by title")
+
+# merge sources with matching (non-blank) normalized titles
+for a in range(0, len(sources)):
+    a_title = normalize_title(get_safe(sources, f"{a}.title", ""))
+    if not a_title:
+        continue
+    for b in range(a + 1, len(sources)):
+        b_title = normalize_title(get_safe(sources, f"{b}.title", ""))
+        if b_title == a_title:
+            log(f"Found duplicate title: {a_title[:60]}...", indent=2)
             sources[a].update(sources[b])
             sources[b] = {}
 sources = [entry for entry in sources if entry]
