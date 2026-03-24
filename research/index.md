@@ -13,7 +13,7 @@ I believe that all research should be open and freely accessible to everyone. Pl
 
 ## Highlighted
 
-{% include citation.html lookup="Population-Based Risk of Psychiatric Disorders Associated With Recurrent Copy Number Variants" style="rich" %}
+{% include citation.html lookup="Genome-wide association analyses identify distinct genetic architectures for early-onset and late-onset depression." style="rich" %}
 
 {% include section.html %}
 
