@@ -226,7 +226,6 @@
   file: sources.yaml
   image: images/journals/the-lancet.jpg
 - id: pubmed:33067325
-  image: images/journals/genetics.gif
   title: 'Content and Performance of the MiniMUGA Genotyping Array: A New Tool To
     Improve Rigor and Reproducibility in Mouse Research.'
   authors:
@@ -303,8 +302,9 @@
   date: '2020-10-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33067325
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/genetics.gif
 - id: pubmed:30877080
   title: A Diallel of the Mouse Collaborative Cross Founders Reveals Strong Strain-Specific
     Maternal Effects on Litter Size.
@@ -368,7 +368,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28592496
-  image: images/journals/genetics.gif
   title: Male Infertility Is Responsible for Nearly Half of the Extinction Observed
     in the Mouse Collaborative Cross.
   authors:
@@ -395,10 +394,10 @@
   date: '2017-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28592496
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:28592495
+  plugin: sources.py
+  file: sources.yaml
   image: images/journals/genetics.gif
+- id: pubmed:28592495
   title: Genomes of the Mouse Collaborative Cross.
   authors:
   - Anuj Srivastava
@@ -423,8 +422,9 @@
   date: '2017-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28592495
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/genetics.gif
 - id: pubmed:27558663
   title: Obp56h Modulates Mating Behavior in Drosophila melanogaster.
   authors:
@@ -461,7 +461,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:22327626
-  image: images/journals/behavior-genetics.jpg
   title: A genetic analysis of the stinging and guarding behaviors of the honey bee.
   authors:
   - John R Shorter
@@ -472,8 +471,9 @@
   date: '2012-02-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22327626
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/behavior-genetics.jpg
 - id: doi:10.1038/s41467-024-49507-3
   title: Quantifying the relative importance of genetics and environment on the comorbidity
     between mental and cardiometabolic disorders using 17 million Scandinavians
@@ -661,7 +661,6 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1510104112
-  image: images/journals/pnas.png
   title: "Genetic architecture of natural variation in\n                    <i>Drosophila\
     \ melanogaster</i>\n                    aggressive behavior"
   authors:
@@ -677,8 +676,8 @@
   link: https://doi.org/f7jk8v
   plugin: sources.py
   file: sources.yaml
+  image: images/journals/pnas.png
 - id: doi:10.1016/j.jvacx.2025.100625
-  image: images/journals/vaccine.gif
   title: Vaccination against tick-borne encephalitis virus in Denmark, Norway and
     Sweden
   authors:
@@ -695,8 +694,8 @@
   link: https://doi.org/g9bprv
   plugin: sources.py
   file: sources.yaml
+  image: images/journals/vaccine.gif
 - id: doi:10.1007/s00265-009-0764-z
-  image: images/journals/bes.jpg
   title: How do fighting ability and nest value influence usurpation contests in Polistes
     wasps?
   authors:
@@ -707,3 +706,4 @@
   link: https://doi.org/d4vpv6
   plugin: sources.py
   file: sources.yaml
+  image: images/journals/bes.jpg
