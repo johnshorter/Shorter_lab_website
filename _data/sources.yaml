@@ -10,10 +10,8 @@
 
 # --- journal cover images (keyed by publication id) ---
 
-# Nature Genetics (early/late-onset depression GWAS; pubmed + doi duplicate)
+# Nature Genetics (early/late-onset depression GWAS)
 - id: pubmed:41233554
-  image: images/journals/nature-genetics.gif
-- id: doi:10.1038/s41588-025-02396-8
   image: images/journals/nature-genetics.gif
 
 # Nature Communications (genetics/environment comorbidity)
@@ -39,6 +37,14 @@
   image: images/journals/insectes-sociaux.gif
 
 # --- removed from the publication list ---
+
+# Duplicates of PubMed entries (ORCID adds a DOI copy of the same paper).
+# Keep the PubMed entry, drop the DOI duplicate.
+- id: doi:10.1038/s41588-025-02396-8
+  remove: true
+
+- id: doi:10.1111/bcpt.70209
+  remove: true
 
 - id: pubmed:38871766
   remove: true
