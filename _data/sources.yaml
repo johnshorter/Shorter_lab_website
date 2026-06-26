@@ -1,9 +1,44 @@
+# Per-publication overrides merged into citations.yaml by the _cite process.
+# Journal cover images are hosted locally in images/journals/ so the links
+# don't expire (unlike hotlinked publisher CDN images).
+
 - id: doi:10.1001/jamapsychiatry.2024.1453
   type: paper
   description: The objective of this project was to provide unbiased population-based estimates of prevalence and risk associated with psychiatric disorders for rCNVs and to compare risks across outcomes, rCNV dosage type (deletions or duplications), and locus features.
   date: 2024-10-2
-  image: https://cdn.jamanetwork.com/ama/content_public/journal/psych/939472/yoi240033f1_1727819432.01804.png?Expires=1742313049&Signature=D4~jqWVZjZyL6GmLwEtYHxdXKBsn2Gt4v42q~ZGSSKlV9DBaqnyDjjNMdNaoFac4tcb8il8FBuYAZ1VAQDtHRZN47PICvOQi2YBXJLB3zfgLXEgwmKYFFYxLQq8VHygKmiv-l5BBIv6Xj1cIZaNpmulMnj4XLByGdxlg9znyvVx97eYVhFgLjGTBX9ZqvYTh1eO0zmKQ0RTKm0KpQLkQtmFMyYZSbZUyIy6fzSUMuOUAORTjcCi2TV2k8TExNw0mKkRqvIenUcZ35f3bXgvD0kPf3Dt-yYB8PBm06Ivj0BY-G9GbM8fDVEht-kIS9UhzvZEatKT4e~KQ~tMNTvdKAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/journals/jama-psychiatry.png
 
+# --- journal cover images (keyed by publication id) ---
+
+# Nature Genetics (early/late-onset depression GWAS; pubmed + doi duplicate)
+- id: pubmed:41233554
+  image: images/journals/nature-genetics.gif
+- id: doi:10.1038/s41588-025-02396-8
+  image: images/journals/nature-genetics.gif
+
+# Nature Communications (genetics/environment comorbidity)
+- id: doi:10.1038/s41467-024-49507-3
+  image: images/journals/nature-communications.jpg
+
+# Molecular Psychiatry (PRS for depression severity)
+- id: pubmed:40962829
+  image: images/journals/molecular-psychiatry.gif
+
+# Biological Psychiatry (infection polygenic factors)
+- id: doi:10.1016/j.biopsych.2022.01.007
+  image: images/journals/biological-psychiatry.gif
+
+# The Lancet Regional Health – Europe (MDD epidemiology in Scandinavia)
+- id: pubmed:37265784
+  image: images/journals/the-lancet.jpg
+
+# Insectes Sociaux (two papers)
+- id: doi:10.1007/s00040-011-0210-x
+  image: images/journals/insectes-sociaux.gif
+- id: doi:10.1007/s00040-008-1026-1
+  image: images/journals/insectes-sociaux.gif
+
+# --- removed from the publication list ---
 
 - id: pubmed:38871766
   remove: true
@@ -13,19 +48,19 @@
 
 - id: pubmed:35305821
   remove: true
-  
+
 - id: doi:10.1016/J.EURONEURO.2022.07.259
   remove: true
 
 - id: pubmed:33067325
   remove: true
-  
+
 - id: pubmed:32852103
   remove: true
-  
+
 - id: doi:10.1101/2020.03.12.989400
   remove: true
-  
+
 - id: doi:10.1101/690917
   remove: true
 
@@ -67,4 +102,3 @@
 
 - id: wosuid:WOS:000850044000120
   remove: true
-  
