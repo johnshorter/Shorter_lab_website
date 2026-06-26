@@ -1,45 +1,71 @@
-- title: Genome-wide association study using Nordic biobank and longitudinal health registry reveals different genetic architecture between early- and late-onset depression
-  subtitle: Identifying genetic factors associated with early onset depression
-  group: featured
+# Projects shown on /projects, grouped by research theme via the `group` key.
+# Rendered by projects/index.md using list.html + card.html.
+
+# ── Depression & early-onset MDD ───────────────────────────────────────────
+- title: Genetic architecture of early- and late-onset depression
+  subtitle: Genome-wide association study across Nordic biobanks and registries
+  group: depression
   image: images/Figure 0 - graphical abstract.png
-  link: 
-  description: A collaboration led by John R. Shorter at Roskilde University, in partnership with university and clinical researchers from four other Nordic countries 
-  repo: 
-  tags:
-    
+  link: https://doi.org/10.1038/s41588-025-02396-8
+  description: A collaboration led by John Shorter at Roskilde University with researchers across four Nordic countries, showing that early- and late-onset depression have partly distinct genetic architectures.
+  repo:
 
-- title: Prevalence and Characteristics of Patients with Hypothyroidism in the Danish Blood Donor Study 
-  subtitle: A sex specific analysis of hypothyroidism
-  group: featured
+- title: Thyroid function and early-onset depression
+  subtitle: A bidirectional Mendelian randomization study
+  group: depression
+  image:
+  link:
+  description: Led by Triinu Peters at University Hospital Essen (with Anke Hinney's group), in collaboration with John Shorter. A bidirectional two-sample Mendelian randomization study finding that causal links between thyroid function and depression are driven predominantly by early-onset MDD. Manuscript in preparation.
+  repo:
+
+# ── Thyroid & hypothyroidism ───────────────────────────────────────────────
+- title: Hypothyroidism in the Danish Blood Donor Study
+  subtitle: Characterizing and modeling thyroid disease before diagnosis
+  group: thyroid
   image: images/dbds_hypo.png
-  link: 
-  description: In collaboration with Louise Torp Dalgaard at Roskilde University and Ole Birger Vesterager Pedersen at the Department of Clinical Immunology, Zealand University Hospital
-  repo: 
-  tags:
-    
+  link:
+  description: In collaboration with Louise Torp Dalgaard at Roskilde University and Ole Birger Vesterager Pedersen (Department of Clinical Immunology, Zealand University Hospital). The project characterizes hypothyroidism in the DBDS and, in work led by PhD student Jonatan Langer, builds mathematical models of pre-diagnostic disease progression.
+  repo:
 
+- title: TSH × smoking interaction GWAS
+  subtitle: A genome-wide gene-by-environment study within the ThyroidOmics consortium
+  group: thyroid
+  image:
+  link:
+  description: Part of the ThyroidOmics consortium, led by Alex Williams at the University of Leicester. A genome-wide SNP-by-smoking interaction study of thyroid-stimulating hormone (TSH); the lab contributes a Danish Blood Donor Study analysis to be meta-analyzed with the UK Biobank.
+  repo:
+
+# ── Pharmacogenetics ───────────────────────────────────────────────────────
+- title: Precision medicine in epilepsy
+  subtitle: Pharmacogenetics and therapeutic drug monitoring in treatment-resistant epilepsy
+  group: pharmacogenetics
+  image: images/photo.jpg
+  link: https://onlinelibrary.wiley.com/doi/10.1111/bcpt.70209
+  description: In collaboration with Dr. Allan Bayat at the Filadelfia epilepsy hospital in Dianalund, Denmark, using pharmacogenetics and therapeutic drug monitoring (TDM) to better understand and individualize antiepileptic treatment.
+  repo:
+
+- title: CYP2C19 and individualized drug response
+  subtitle: How CYP2C19 genetic variants shape clopidogrel efficacy in stroke patients
+  group: pharmacogenetics
+  image: images/photo.jpg
+  link:
+  description: In collaboration with Michael Asger Andersen (Bispebjerg Hospital) and Morteza Vaez (Institute of Biological Psychiatry, Sct. Hans, Roskilde), studying how CYP2C19 genetic variants influence the efficacy and safety of clopidogrel in stroke patients.
+  repo:
+
+# ── Resources & tutorials ──────────────────────────────────────────────────
 - title: Tutorial on creating Polygenic Risk Scores
-  subtitle: A workshop presented at the Nordic Society of Human Genetics NSHG
+  subtitle: A workshop presented at the Nordic Society of Human Genetics (NSHG)
+  group: resources
   image: images/NSHG2023_workshop.png
   link: https://github.com/johnshorter/NSHG-PM2023
-  description: A detailed guide on how to use the polygenic score catalog and how to create polygenic risk scores with LDpred2
-  repo: 
-  tags:
-    
+  description: A detailed guide on using the Polygenic Score Catalog and building polygenic risk scores with LDpred2.
+  repo:
 
-- title: Precision Medicine in Epilepsy
-  subtitle: Utilizing pharmacogenetics and therapeutic drug monitoring (TDM) to better understand treatment-resistant epilepsy.
-  image: images/photo.jpg
-  link: 
-  description: In collaboration with Dr. Allan Bayat at the Filadelfia epilepsy hospital, in Dianalund Denmark  
-  repo: 
-  tags:
-    
-
-- title: Advancing Personalized Medicine in Cardiovascular Disease 
-  subtitle: The Influence of CYP2C19 Genetic Variants on Clopidogrel Efficacy in Stroke Patients
-  image: images/photo.jpg
-  link: 
-  description: In collaboration with Michael Asger Andersen at Bispebjerg Hospital 
-  repo: 
-  tags:
+# ── In progress ────────────────────────────────────────────────────────────
+- title: Genome-wide association study of adolescent-onset depression
+  subtitle: In press at Nature Genetics
+  group: in-progress
+  image:
+  link: https://www.medrxiv.org/content/10.1101/2025.09.26.25335972
+  description: A genome-wide association study of adolescent-onset depression, accepted at Nature Genetics (preprint on medRxiv).
+  repo:

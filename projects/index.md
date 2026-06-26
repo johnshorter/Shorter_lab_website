@@ -13,12 +13,30 @@ Read about some of our current and past projects.
 
 {% include section.html %}
 
-## Featured
+## Depression & early-onset MDD
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'depression'" %}
 
 {% include section.html %}
 
-## More
+## Thyroid & hypothyroidism
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'thyroid'" %}
+
+{% include section.html %}
+
+## Pharmacogenetics
+
+{% include list.html component="card" data="projects" filter="group == 'pharmacogenetics'" %}
+
+{% include section.html %}
+
+## Resources & tutorials
+
+{% include list.html component="card" data="projects" filter="group == 'resources'" style="small" %}
+
+{% include section.html %}
+
+## In progress
+
+{% include list.html component="card" data="projects" filter="group == 'in-progress'" style="small" %}
