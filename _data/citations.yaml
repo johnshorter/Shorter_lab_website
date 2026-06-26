@@ -306,6 +306,7 @@
   file: sources.yaml
   image: images/journals/genetics.gif
 - id: pubmed:30877080
+  image: images/journals/g3-2019.gif
   title: A Diallel of the Mouse Collaborative Cross Founders Reveals Strong Strain-Specific
     Maternal Effects on Litter Size.
   authors:
@@ -326,6 +327,7 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:30858237
+  image: images/journals/g3-2019.gif
   title: Whole Genome Sequencing and Progress Toward Full Inbreeding of the Mouse
     Collaborative Cross Population.
   authors:
@@ -426,6 +428,7 @@
   file: sources.yaml
   image: images/journals/genetics.gif
 - id: pubmed:27558663
+  image: images/journals/g3-2016.gif
   title: Obp56h Modulates Mating Behavior in Drosophila melanogaster.
   authors:
   - John R Shorter
@@ -533,6 +536,7 @@
   file: sources.yaml
   image: images/journals/biological-psychiatry.gif
 - id: doi:10.1111/epi.16617
+  image: images/journals/epilepsia.webp
   title: Collaborative Cross mice reveal extreme epilepsy phenotypes and genetic loci
     for seizure susceptibility
   authors:

@@ -69,6 +69,18 @@
 - id: doi:10.1016/j.jvacx.2025.100625
   image: images/journals/vaccine.gif
 
+# G3 (Genes|Genomes|Genetics) — issue covers highlighting the work
+- id: pubmed:27558663            # Obp56h (2016)
+  image: images/journals/g3-2016.gif
+- id: pubmed:30858237            # CC whole-genome sequencing (2019)
+  image: images/journals/g3-2019.gif
+- id: pubmed:30877080            # CC diallel (2019)
+  image: images/journals/g3-2019.gif
+
+# Epilepsia
+- id: doi:10.1111/epi.16617
+  image: images/journals/epilepsia.webp
+
 # --- removed from the publication list ---
 
 # DOI duplicates of papers already present from PubMed (keep the PubMed copy).
