@@ -45,13 +45,14 @@
 - id: doi:10.1007/s00040-008-1026-1
   image: images/journals/insectes-sociaux.gif
 
-# Genetics (three papers)
+# Genetics — MiniMUGA (2020), generic Genetics cover
 - id: pubmed:33067325
   image: images/journals/genetics.gif
+# Genetics 2017 papers — the GSA "mouse" issue cover
 - id: pubmed:28592496
-  image: images/journals/genetics.gif
+  image: images/journals/genetics-2017.gif
 - id: pubmed:28592495
-  image: images/journals/genetics.gif
+  image: images/journals/genetics-2017.gif
 
 # Behavior Genetics
 - id: pubmed:22327626

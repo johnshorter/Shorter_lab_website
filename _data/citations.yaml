@@ -399,7 +399,7 @@
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/genetics.gif
+  image: images/journals/genetics-2017.gif
 - id: pubmed:28592495
   title: Genomes of the Mouse Collaborative Cross.
   authors:
@@ -427,7 +427,7 @@
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/genetics.gif
+  image: images/journals/genetics-2017.gif
 - id: pubmed:27558663
   title: Obp56h Modulates Mating Behavior in Drosophila melanogaster.
   authors:
