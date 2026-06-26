@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-file-lines" %}Curriculum Vitae
 
-**John R. Shorter** — Associate Professor of Biomedical Data Science
+**John R. Shorter**, Associate Professor of Biomedical Data Science
 Department of Science and Environment, Roskilde University · PandemiX Center
 
 {% include button.html type="email" text="Email" link="johnsh@ruc.dk" %}
@@ -20,36 +20,36 @@ Department of Science and Environment, Roskilde University · PandemiX Center
 
 ## Education
 
-- **PhD, Genetics** — North Carolina State University, USA (2015)
-- **MS, Entomology** — Purdue University, USA (2011)
-- **BS, Ecology & Evolutionary Biology** — University of Michigan, USA (2008)
+- **PhD in Genetics**, North Carolina State University, USA (2015)
+- **MS in Entomology**, Purdue University, USA (2011)
+- **BS in Ecology & Evolutionary Biology**, University of Michigan, USA (2008)
 
 ## Academic appointments
 
-- **Associate Professor of Biomedical Data Science** — Roskilde University, Denmark (2025–present)
-- **Assistant Professor of Biomedical Data Science** — Roskilde University, Denmark (2022–2025)
-- **Senior Postdoctoral Researcher** — Institute of Biological Psychiatry, Roskilde, Denmark (2019–2022)
-- **Postdoctoral Fellow** (incl. NIH CIDD T32 Fellow) — University of North Carolina at Chapel Hill, USA (2015–2019)
+- **Associate Professor of Biomedical Data Science**, Roskilde University, Denmark (2025–present)
+- **Assistant Professor of Biomedical Data Science**, Roskilde University, Denmark (2022–2025)
+- **Senior Postdoctoral Researcher**, Institute of Biological Psychiatry, Roskilde, Denmark (2019–2022)
+- **Postdoctoral Fellow** (incl. NIH CIDD T32 Fellow), University of North Carolina at Chapel Hill, USA (2015–2019)
 
 ## Grants & fellowships
 
-- **Independent Research Fund Denmark (DFF), Research Project 1** — Principal Investigator; pharmacogenomics in hypothyroidism (submitted 2026, under review)
-- **NIH CIDD T32 Postdoctoral Fellowship** — with F. Pardo-Manuel de Villena, UNC (2018–2019)
-- **NIH Predoctoral Research Training Fellowship** — with T. Mackay, NC State (2011–2013)
+- **Independent Research Fund Denmark (DFF), Research Project 1**, Principal Investigator, on pharmacogenomics in hypothyroidism (submitted 2026, under review)
+- **NIH CIDD T32 Postdoctoral Fellowship**, with F. Pardo-Manuel de Villena, UNC (2018–2019)
+- **NIH Predoctoral Research Training Fellowship**, with T. Mackay, NC State (2011–2013)
 
 ## Honors & awards
 
-- **Nominee, Undervisningsprisen** — Denmark's national university teaching award, Ministry of Higher Education and Science (2025)
+- **Nominee, Undervisningsprisen**, Denmark's national university teaching award, Ministry of Higher Education and Science (2025)
 
 ## Teaching
 
-- **Bioinformatics** — MSc Health Science; 5 ECTS; sole responsibility; ~40 students/semester (2023–present)
-- **Applied Data Science & Visualization** — MSc Health Science; 5 ECTS; sole responsibility; ~50 students (2023–present)
-- **Genetics** — BSc Biology; 5 ECTS; ~80 students/semester (2023–present)
-- **Theory of Natural Science / Human Biology & Evolution** — BSc, multiple courses (2023–present)
-- **Nutrition Biology** — BSc, Seminar Course in Molecular Health Science (2024–present)
-- **PhD Research Dissemination: Visualize Your Research** — Roskilde University (2024–present)
-- **Guest Lecturer, Experimental Design in Neuroscience** — University of Copenhagen; ~30 students (2020)
+- **Bioinformatics**, MSc Health Science. 5 ECTS, sole responsibility, ~40 students/semester (2023–present)
+- **Applied Data Science & Visualization**, MSc Health Science. 5 ECTS, sole responsibility, ~50 students (2023–present)
+- **Genetics**, BSc Biology. 5 ECTS, ~80 students/semester (2023–present)
+- **Theory of Natural Science / Human Biology & Evolution**, BSc, multiple courses (2023–present)
+- **Nutrition Biology**, BSc Seminar Course in Molecular Health Science (2024–present)
+- **PhD Research Dissemination: Visualize Your Research**, Roskilde University (2024–present)
+- **Guest Lecturer, Experimental Design in Neuroscience**, University of Copenhagen, ~30 students (2020)
 
 ## Supervision & mentoring
 
@@ -75,7 +75,7 @@ Department of Science and Environment, Roskilde University · PandemiX Center
 
 ## Publications
 
-23 peer-reviewed articles (13 as first or co-first author); >1,100 citations; h-index 16, i10-index 18 (Google Scholar).
+23 peer-reviewed articles (13 as first or co-first author); over 1,100 citations; h-index 16, i10-index 18 (Google Scholar).
 
 {%
   include button.html

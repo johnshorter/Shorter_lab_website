@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-bullhorn" %}News
 
-Occasional updates from the lab — new papers, grants, talks, and milestones.
+Occasional notes from the lab: new papers, grants, talks, and milestones.
 
 {% include section.html %}
 
