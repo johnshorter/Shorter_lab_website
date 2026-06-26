@@ -10,5 +10,4 @@ links:
   orcid: [0000-0003-4732-5526]
 ---
 
-John Shorter is an Assistant Professor in Biomedical Data Science at Roskilde University (RUC), in the Department of Science and the Environment, and affiliated with researcher with the Institute of Biological Psychiatry (IBP) at Sct Hans in Roskilde, and the PandemiX Center at RUC, as well as a member of the Young Academy Panel for the Danish Data Science Academy (DDSA). 
-His research focuses on understanding the genetic mechanisms of disease, and the development and use of  polygenic risk scores for disease prediction. 
+I'm John Shorter, an Associate Professor of Biomedical Data Science at Roskilde University (RUC), in the Department of Science and Environment. I'm also an affiliated researcher at the Institute of Biological Psychiatry (IBP) at Sct. Hans in Roskilde and at the PandemiX Center at RUC, and a member of the Young Academy Panel for the Danish Data Science Academy (DDSA). My research focuses on the genetic mechanisms of disease and on developing polygenic risk scores to predict it.
