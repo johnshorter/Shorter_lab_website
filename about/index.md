@@ -42,7 +42,6 @@ Underneath all of it is a fascination with how genetic variation makes us who we
 
 ## Highlights
 
-- Principal Investigator on a submitted Independent Research Fund Denmark (DFF) project grant on pharmacogenomics in hypothyroidism (2026, under review).
 - Nominated for the Undervisningsprisen, Denmark's national university teaching award, in 2025.
 - 23 peer-reviewed articles and over 1,100 citations, with first or senior authorship in journals including Nature Genetics, Nature Communications, JAMA Psychiatry, and Biological Psychiatry.
 - Work on depression genetics and suicide-risk prediction covered in Danish national media.
