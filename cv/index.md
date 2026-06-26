@@ -54,7 +54,7 @@ Department of Science and Environment, Roskilde University · PandemiX Center
 ## Supervision & mentoring
 
 - **PhD:** Jonatan Langer (2025–present)
-- **MSc:** Maraim Haidar Al-Khafaji (2026); Esraa Ayad Al-Meshaiki (2025); Hadiya Feyaz (2024)
+- **MSc:** Esraa Ayad Al-Meshaiki (2025)
 - **Erasmus (BSc thesis):** Itxaso Alonso Rodríguez, University of Barcelona (2025)
 - Project-group supervisor for 15 groups (60+ students) at RUC since 2022, across the International Bachelor's programme. Mentor, Danish Data Science Academy (DDSA) Mentoring Programme.
 
