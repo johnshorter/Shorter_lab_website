@@ -351,6 +351,7 @@
   file: sources.yaml
   image: images/journals/g3-2019.gif
 - id: pubmed:29279960
+  image: images/journals/mammalian-genome.jpg
   title: Quantitative trait mapping in Diversity Outbred mice identifies two genomic
     regions associated with heart size.
   authors:

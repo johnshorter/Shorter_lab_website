@@ -81,6 +81,10 @@
 - id: doi:10.1111/epi.16617
   image: images/journals/epilepsia.webp
 
+# Mammalian Genome (DO heart-size paper; 2018 special-issue cover)
+- id: pubmed:29279960
+  image: images/journals/mammalian-genome.jpg
+
 # --- removed from the publication list ---
 
 # DOI duplicates of papers already present from PubMed (keep the PubMed copy).
