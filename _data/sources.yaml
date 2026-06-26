@@ -45,6 +45,30 @@
 - id: doi:10.1007/s00040-008-1026-1
   image: images/journals/insectes-sociaux.gif
 
+# Genetics (three papers)
+- id: pubmed:33067325
+  image: images/journals/genetics.gif
+- id: pubmed:28592496
+  image: images/journals/genetics.gif
+- id: pubmed:28592495
+  image: images/journals/genetics.gif
+
+# Behavior Genetics
+- id: pubmed:22327626
+  image: images/journals/behavior-genetics.jpg
+
+# PNAS
+- id: doi:10.1073/pnas.1510104112
+  image: images/journals/pnas.png
+
+# Behavioral Ecology and Sociobiology
+- id: doi:10.1007/s00265-009-0764-z
+  image: images/journals/bes.jpg
+
+# Vaccine: X
+- id: doi:10.1016/j.jvacx.2025.100625
+  image: images/journals/vaccine.gif
+
 # --- removed from the publication list ---
 
 # DOI duplicates of papers already present from PubMed (keep the PubMed copy).

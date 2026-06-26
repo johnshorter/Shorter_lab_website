@@ -226,6 +226,7 @@
   file: sources.yaml
   image: images/journals/the-lancet.jpg
 - id: pubmed:33067325
+  image: images/journals/genetics.gif
   title: 'Content and Performance of the MiniMUGA Genotyping Array: A New Tool To
     Improve Rigor and Reproducibility in Mouse Research.'
   authors:
@@ -367,6 +368,7 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28592496
+  image: images/journals/genetics.gif
   title: Male Infertility Is Responsible for Nearly Half of the Extinction Observed
     in the Mouse Collaborative Cross.
   authors:
@@ -396,6 +398,7 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28592495
+  image: images/journals/genetics.gif
   title: Genomes of the Mouse Collaborative Cross.
   authors:
   - Anuj Srivastava
@@ -458,6 +461,7 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:22327626
+  image: images/journals/behavior-genetics.jpg
   title: A genetic analysis of the stinging and guarding behaviors of the honey bee.
   authors:
   - John R Shorter
@@ -657,6 +661,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1510104112
+  image: images/journals/pnas.png
   title: "Genetic architecture of natural variation in\n                    <i>Drosophila\
     \ melanogaster</i>\n                    aggressive behavior"
   authors:
@@ -673,6 +678,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jvacx.2025.100625
+  image: images/journals/vaccine.gif
   title: Vaccination against tick-borne encephalitis virus in Denmark, Norway and
     Sweden
   authors:
@@ -690,6 +696,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00265-009-0764-z
+  image: images/journals/bes.jpg
   title: How do fighting ability and nest value influence usurpation contests in Polistes
     wasps?
   authors:
