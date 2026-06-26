@@ -351,7 +351,6 @@
   file: sources.yaml
   image: images/journals/g3-2019.gif
 - id: pubmed:29279960
-  image: images/journals/mammalian-genome.jpg
   title: Quantitative trait mapping in Diversity Outbred mice identifies two genomic
     regions associated with heart size.
   authors:
@@ -368,8 +367,9 @@
   date: '2017-12-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29279960
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/mammalian-genome.jpg
 - id: pubmed:28592496
   title: Male Infertility Is Responsible for Nearly Half of the Extinction Observed
     in the Mouse Collaborative Cross.
