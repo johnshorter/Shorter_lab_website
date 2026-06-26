@@ -3,11 +3,35 @@
 
 # Introducing the Shorter lab
 
-Our goal is to establish a framework for individualized treatment strategies in endocrine, neurological, and cardiovascular disorders. By integrating GWAS and functional genomics with state-of-the-art pharmacogenetics, we aspire to refine treatment options, improve clinical outcomes, and reduce the societal burden of chronic diseases. In parallel, we will continue to foster a collaborative environment that includes training new scientists in bioinformatics, genetics, and translational medicine. Our reseach utilizes large-scale national biobanks like the Danish Blood Donor Study, iPSYCH, UKB and more. We also use mouse models to further our understanding of disease biology.
+Our goal is to establish a framework for individualized treatment strategies in endocrine, neurological, and cardiovascular disorders. By integrating GWAS and functional genomics with state-of-the-art pharmacogenetics, we aspire to refine treatment options, improve clinical outcomes, and reduce the societal burden of chronic diseases. In parallel, we will continue to foster a collaborative environment that includes training new scientists in bioinformatics, genetics, and translational medicine. Our research utilizes large-scale national biobanks like the Danish Blood Donor Study, iPSYCH, UKB and more. We also use mouse models to further our understanding of disease biology.
 
 {% include section.html %}
 
 ## Highlights
+
+{% capture text %}
+
+The lab is led by John Shorter, Associate Professor of Biomedical Data Science. Read about his path from insect genetics to precision medicine, and what drives the lab's work.
+
+{%
+  include button.html
+  link="about"
+  text="Meet the PI"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/IMG-20210906-WA0002.jpg"
+  link="about"
+  title="About"
+  flip=true
+  text=text
+%}
 
 {% capture text %}
 

@@ -1,0 +1,30 @@
+# Career timeline shown on the About page (rendered by _includes/timeline.html).
+# Listed in chronological order (earliest first).
+
+- year: 2008
+  title: BS, Ecology & Evolutionary Biology
+  detail: University of Michigan, USA
+
+- year: 2011
+  title: MS, Entomology
+  detail: Purdue University, USA
+
+- year: 2015
+  title: PhD, Genetics
+  detail: North Carolina State University, USA
+
+- year: 2015–2019
+  title: Postdoctoral Fellow (NIH CIDD T32)
+  detail: University of North Carolina at Chapel Hill, USA
+
+- year: 2019–2022
+  title: Senior Postdoctoral Researcher
+  detail: Institute of Biological Psychiatry, Sct. Hans, Roskilde, Denmark
+
+- year: 2022–2025
+  title: Assistant Professor of Biomedical Data Science
+  detail: Roskilde University, Denmark
+
+- year: 2025–present
+  title: Associate Professor of Biomedical Data Science
+  detail: Roskilde University, Denmark
