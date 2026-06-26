@@ -1,11 +1,12 @@
 ---
-title: Research
+title: Publications
+redirect_from: /research/
 nav:
   order: 2
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 I believe that all research should be open and freely accessible to everyone. Please contact me if you are interested in a publication, but are unable to get a copy, and I will happily email it to you!
 

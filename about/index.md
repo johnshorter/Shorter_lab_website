@@ -49,7 +49,7 @@ Underneath all of it is a fascination with how genetic variation makes us who we
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See all publications"
   icon="fa-solid fa-arrow-right"
   flip=true

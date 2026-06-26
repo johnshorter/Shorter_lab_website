@@ -39,7 +39,7 @@ A central aim of our research is to discover new mechanistic insights into disea
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -51,7 +51,7 @@ A central aim of our research is to discover new mechanistic insights into disea
 {%
   include feature.html
   image="images/coverart.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}

@@ -1,6 +1,5 @@
 # Per-publication overrides merged into citations.yaml by the _cite process.
-# Journal cover images are hosted locally in images/journals/ so the links
-# don't expire (unlike hotlinked publisher CDN images).
+# Journal cover images are hosted locally so the links don't expire.
 
 - id: doi:10.1001/jamapsychiatry.2024.1453
   type: paper
@@ -8,11 +7,21 @@
   date: 2024-10-2
   image: images/journals/jama-psychiatry.png
 
+# --- papers not caught by the PubMed query or ORCID (added by DOI) ---
+# These are indexed under "Shorter J" (not "Shorter JR"), so the author query misses them.
+- id: doi:10.1073/pnas.1510104112      # PNAS 2015 — Drosophila aggressive behavior
+- id: doi:10.1016/j.jvacx.2025.100625  # Vaccine: X 2025 — tick-borne encephalitis vaccination
+- id: doi:10.1007/s00265-009-0764-z    # Behav Ecol Sociobiol 2009 — Polistes usurpation contests
+
 # --- journal cover images (keyed by publication id) ---
 
 # Nature Genetics (early/late-onset depression GWAS)
 - id: pubmed:41233554
   image: images/journals/nature-genetics.gif
+
+# Basic & Clinical Pharmacology & Toxicology (perampanel paper)
+- id: pubmed:41656002
+  image: images/bcpt.v139.2.cover.gif
 
 # Nature Communications (genetics/environment comorbidity)
 - id: doi:10.1038/s41467-024-49507-3
@@ -38,73 +47,52 @@
 
 # --- removed from the publication list ---
 
-# Duplicates of PubMed entries (ORCID adds a DOI copy of the same paper).
-# Keep the PubMed entry, drop the DOI duplicate.
+# DOI duplicates of papers already present from PubMed (keep the PubMed copy).
 - id: doi:10.1038/s41588-025-02396-8
   remove: true
-
 - id: doi:10.1111/bcpt.70209
   remove: true
 
+# PubMed copies of papers already present as DOI entries (keep the DOI copy).
 - id: pubmed:38871766
   remove: true
-
-- id: pubmed:38464139
-  remove: true
-
 - id: pubmed:35305821
   remove: true
-
-- id: doi:10.1016/J.EURONEURO.2022.07.259
-  remove: true
-
-- id: pubmed:33067325
-  remove: true
-
 - id: pubmed:32852103
   remove: true
 
+# Preprints of published papers.
+- id: pubmed:38464139
+  remove: true
 - id: doi:10.1101/2020.03.12.989400
   remove: true
-
 - id: doi:10.1101/690917
   remove: true
-
-- id: pubmed:30858237
-  remove: true
-
-- id: pubmed:30877080
-  remove: true
-
-- id: pubmed:30515527
-  remove: true
-
-- id: doi:10.1007/s00335-018-9789-9
-  remove: true
-
-- id: pubmed:29279960
-  remove: true
-
-- id: pubmed:28592495
-  remove: true
-
-- id: pubmed:28592496
-  remove: true
-
-- id: pubmed:27558663
-  remove: true
-
 - id: doi:10.1101/458877
   remove: true
 
-- id: pubmed:26226016
+# Erratum/correction (not a separate publication).
+- id: pubmed:30515527
+  remove: true
+- id: doi:10.1007/s00335-018-9789-9
   remove: true
 
-- id: pubmed:22327626
+# Conference / meeting abstracts (ECNP / European Neuropsychopharmacology).
+- id: doi:10.1016/J.EURONEURO.2022.07.259
+  remove: true
+- id: doi:10.1016/J.EURONEURO.2022.07.124
+  remove: true
+- id: doi:10.1016/J.EURONEURO.2022.07.165
+  remove: true
+- id: doi:10.1016/J.EURONEURO.2022.07.070
+  remove: true
+- id: doi:10.1016/J.EURONEURO.2021.07.163
+  remove: true
+- id: doi:10.1016/J.EURONEURO.2021.07.120
   remove: true
 
+# Web of Science duplicates.
 - id: wosuid:WOS:000714115400150
   remove: true
-
 - id: wosuid:WOS:000850044000120
   remove: true

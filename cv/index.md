@@ -79,7 +79,7 @@ Department of Science and Environment, Roskilde University · PandemiX Center
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See the full publication list"
   icon="fa-solid fa-arrow-right"
   flip=true
