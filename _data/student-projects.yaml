@@ -5,9 +5,10 @@
 
 - title: "PGx Pipeline: pharmacogenomic reporting from a genome VCF"
   subtitle: Bachelor project, Roskilde University (2026)
+  style: tall
   image: images/pgx-pipeline.png
-  link: "https://htmlpreview.github.io/?https://github.com/johnshorter/Pgx-pipeline/blob/main/output/HG005/patient_report_v2.html"
-  repo: https://github.com/johnshorter/Pgx-pipeline
+  image_link: images/pgx-pipeline.png
+  link: https://github.com/johnshorter/Pgx-pipeline
   description: >-
     A command-line tool that turns a single-sample genome VCF into plain-language
     pharmacogenomic reports. It runs PharmCAT to call pharmacogene diplotypes and

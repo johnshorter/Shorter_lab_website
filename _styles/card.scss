@@ -27,6 +27,13 @@
   // box-shadow: var(--shadow);
 }
 
+// for tall/portrait figures (e.g. a flowchart): show the whole image, uncropped
+.card[data-style="tall"] .card-image img {
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
+  background: var(--background-alt);
+}
+
 .card-text {
   display: inline-flex;
   justify-content: flex-start;

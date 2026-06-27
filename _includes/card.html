@@ -1,8 +1,9 @@
 {{ " " }}
 <div class="card" data-style="{{ include.style }}">
+  {% assign image_href = include.image_link | default: include.link %}
   <a
-    {% if include.link %}
-      href="{{ include.link | relative_url | uri_escape }}"
+    {% if image_href %}
+      href="{{ image_href | relative_url | uri_escape }}"
     {% endif %}
     aria-label="{{ include.title | default: "card link" | regex_strip }}"
     class="card-image"
