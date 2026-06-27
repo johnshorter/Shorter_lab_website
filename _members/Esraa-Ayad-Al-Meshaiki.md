@@ -1,7 +1,7 @@
 ---
 name: Esraa Ayad Al-Meshaiki
 image: images/20250225_121240.jpg
-role: Candidatus
+role: masters
 affiliation: Roskilde University
 group: alum
 ---
