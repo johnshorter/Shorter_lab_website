@@ -23,6 +23,12 @@
   width: 100%;
 }
 
+.card[data-style=tall] .card-image img {
+  aspect-ratio: 3/4;
+  object-fit: contain;
+  background: var(--background-alt);
+}
+
 .card-text {
   display: inline-flex;
   justify-content: flex-start;
