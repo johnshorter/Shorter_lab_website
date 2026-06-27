@@ -1,7 +1,7 @@
 ---
 title: CV
 nav:
-  order: 6
+  order: 7
   tooltip: Curriculum vitae
 ---
 

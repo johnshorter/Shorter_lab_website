@@ -1,0 +1,26 @@
+# Student projects shown on /student-projects (rendered via list.html + card.html).
+# Each entry is a card: title, subtitle, image, link, repo, description.
+# A card has one primary `link` and one `repo` (GitHub button); put any extra links
+# (a second demo, a report PDF) as markdown links inside `description`.
+
+- title: "PGx Pipeline: pharmacogenomic reporting from a genome VCF"
+  subtitle: Bachelor project, Roskilde University (2026)
+  image: images/pgx-pipeline.png
+  link: "https://htmlpreview.github.io/?https://github.com/johnshorter/Pgx-pipeline/blob/main/output/HG005/patient_report_v2.html"
+  repo: https://github.com/johnshorter/Pgx-pipeline
+  description: >-
+    A command-line tool that turns a single-sample genome VCF into plain-language
+    pharmacogenomic reports. It runs PharmCAT to call pharmacogene diplotypes and
+    metabolizer phenotypes, maps them to CPIC, DPWG, and FDA drug-label guidance, and
+    produces a patient report and a clinician report using a four-level risk model.
+    Built by Adib Vishtal Ahmad and Marco Antonio Román Faraldo. See the live
+    [patient report](https://htmlpreview.github.io/?https://github.com/johnshorter/Pgx-pipeline/blob/main/output/HG005/patient_report_v2.html)
+    and [clinician report](https://htmlpreview.github.io/?https://github.com/johnshorter/Pgx-pipeline/blob/main/output/HG005/clinician_report_v2.html).
+
+# Template for a report-based student project (copy, uncomment, and fill in):
+# - title: "<Project title>"
+#   subtitle: Bachelor project, Roskilde University (<year>)
+#   image: images/<figure>.png          # optional; omit for the fallback image
+#   link: reports/<report-file>.pdf      # the hosted report PDF
+#   description: >-
+#     <One or two sentences on the project.> By <student names>.

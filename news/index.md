@@ -2,7 +2,7 @@
 title: News
 redirect_from: /blog/
 nav:
-  order: 5
+  order: 6
   tooltip: Lab news and updates
 ---
 
