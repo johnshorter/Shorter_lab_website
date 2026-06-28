@@ -165,7 +165,6 @@
   file: sources.yaml
   image: images/journals/molecular-psychiatry.gif
 - id: pubmed:38808072
-  image: images/journals/bioinformatics-advances.jpg
   title: 'COSGAP: COntainerized Statistical Genetics Analysis Pipelines.'
   authors:
   - Bayram Cevdet Akdeniz
@@ -190,8 +189,9 @@
   date: '2024-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38808072
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/bioinformatics-advances.jpg
 - id: pubmed:37265784
   title: Epidemiological overview of major depressive disorder in Scandinavia using
     nationwide registers.
