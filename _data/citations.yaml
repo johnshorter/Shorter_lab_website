@@ -58,7 +58,7 @@
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/nature-genetics.gif
+  image: images/journals/nature-genetics.png
 - id: pubmed:41040734
   title: Genome-wide association study of adolescent-onset depression.
   authors:

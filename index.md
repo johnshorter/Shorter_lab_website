@@ -50,9 +50,9 @@ A central aim of our research is to discover new mechanistic insights into disea
 
 {%
   include feature.html
-  image="images/coverart.jpg"
+  image="images/journals/nature-genetics.png"
   link="publications"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
