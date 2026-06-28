@@ -60,7 +60,6 @@
   file: sources.yaml
   image: images/journals/nature-genetics.png
 - id: pubmed:41040734
-  image: images/journals/medrxiv.png
   title: Genome-wide association study of adolescent-onset depression.
   authors:
   - Poppy Z Grimes
@@ -137,8 +136,9 @@
   date: '2025-09-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41040734
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/medrxiv.png
 - id: pubmed:40962829
   title: 'Associations of polygenic risk scores for major depression and depression
     severity: an investigation of 105 623 individuals with 16 years follow-up.'
@@ -451,7 +451,6 @@
   file: sources.yaml
   image: images/journals/g3-2016.gif
 - id: pubmed:26226016
-  image: images/journals/plos-one.svg
   title: The Effects of Royal Jelly on Fitness Traits and Gene Expression in Drosophila
     melanogaster.
   authors:
@@ -465,8 +464,9 @@
   date: '2015-07-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26226016
   term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/plos-one.svg
 - id: pubmed:22327626
   title: A genetic analysis of the stinging and guarding behaviors of the honey bee.
   authors:
