@@ -86,6 +86,10 @@
 - id: pubmed:29279960
   image: images/journals/mammalian-genome.jpg
 
+# Bioinformatics Advances (COSGAP)
+- id: pubmed:38808072
+  image: images/journals/bioinformatics-advances.jpg
+
 # --- removed from the publication list ---
 
 # DOI duplicates of papers already present from PubMed (keep the PubMed copy).

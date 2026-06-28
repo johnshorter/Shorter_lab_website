@@ -165,6 +165,7 @@
   file: sources.yaml
   image: images/journals/molecular-psychiatry.gif
 - id: pubmed:38808072
+  image: images/journals/bioinformatics-advances.jpg
   title: 'COSGAP: COntainerized Statistical Genetics Analysis Pipelines.'
   authors:
   - Bayram Cevdet Akdeniz
