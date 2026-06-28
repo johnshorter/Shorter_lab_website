@@ -20,6 +20,9 @@
 
 - title: "Molecular Readings from Honey eDNA"
   subtitle: Bachelor project, Roskilde University (2024)
+  style: tall
+  image: images/honey-edna-figure1.jpg
+  image_link: images/honey-edna-figure1.jpg
   link: reports/honey-edna-bachelor-report.pdf
   description: >-
     A bachelor project by Marta Mira Nethlimar Jørs developing a PCR-based honey eDNA
@@ -27,6 +30,18 @@
     methods on Danish honey samples and screened for 13 honeybee diseases, amplifying
     honeybee DNA in 23 of 28 samples and detecting genetic signatures of several
     disease-causing organisms. Read the [final report](reports/honey-edna-bachelor-report.pdf).
+
+- title: "Expanding epilepsy genetics: seizure-susceptibility loci in mouse models"
+  subtitle: Bachelor project, Roskilde University (2025)
+  link: reports/epilepsy-genetics-bachelor-report.pdf
+  description: >-
+    A group bachelor project by Danny Phan, Karina Jensen, Marie K. V. Lorenzen, and
+    Sebastian Ryslev investigating seizure-susceptibility genes in the Gss1 locus. Using
+    RNA-sequencing from hippocampal tissue of CC027 and B6J mice, they built a
+    computational pipeline (Salmon, DESeq2, transcript-level analysis, and variant
+    calling) and identified genotype-specific variants in the potassium-channel genes
+    Kcnj9 and Kcnj10 as candidates for further study. Read the
+    [final report](reports/epilepsy-genetics-bachelor-report.pdf).
 
 # Template for a report-based student project (copy, uncomment, and fill in):
 # - title: "<Project title>"
