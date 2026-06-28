@@ -53,6 +53,7 @@ A central aim of our research is to discover new mechanistic insights into disea
   image="images/journals/nature-genetics.png"
   link="publications"
   title="Our Publications"
+  style="portrait"
   text=text
 %}
 

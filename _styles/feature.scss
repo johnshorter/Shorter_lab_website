@@ -26,6 +26,15 @@ $wrap: 800px;
   object-fit: cover;
 }
 
+// for portrait images (e.g. a journal cover): taller box, show the whole image
+.feature[data-style="portrait"] .feature-image {
+  aspect-ratio: 3 / 4;
+}
+
+.feature[data-style="portrait"] .feature-image img {
+  object-fit: contain;
+}
+
 .feature-text {
   flex-grow: 1;
 }
