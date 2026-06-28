@@ -18,6 +18,16 @@
     [patient report](https://htmlpreview.github.io/?https://github.com/johnshorter/Pgx-pipeline/blob/main/output/HG005/patient_report_v2.html)
     and [clinician report](https://htmlpreview.github.io/?https://github.com/johnshorter/Pgx-pipeline/blob/main/output/HG005/clinician_report_v2.html).
 
+- title: "Molecular Readings from Honey eDNA"
+  subtitle: Bachelor project, Roskilde University (2024)
+  link: reports/honey-edna-bachelor-report.pdf
+  description: >-
+    A bachelor project by Marta Mira Nethlimar Jørs developing a PCR-based honey eDNA
+    method to detect honeybee pathogens and pests. She tested two low-cost DNA extraction
+    methods on Danish honey samples and screened for 13 honeybee diseases, amplifying
+    honeybee DNA in 23 of 28 samples and detecting genetic signatures of several
+    disease-causing organisms. Read the [final report](reports/honey-edna-bachelor-report.pdf).
+
 # Template for a report-based student project (copy, uncomment, and fill in):
 # - title: "<Project title>"
 #   subtitle: Bachelor project, Roskilde University (<year>)
