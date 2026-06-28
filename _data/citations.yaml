@@ -563,7 +563,6 @@
   file: sources.yaml
   image: images/journals/epilepsia.webp
 - id: doi:10.1101/858142
-  image: images/journals/biorxiv.png
   title: The Collaborative Cross Graphical Genome
   authors:
   - Hang Su
@@ -578,8 +577,9 @@
   link: https://doi.org/gktrkf
   orcid: 0000-0003-4732-5526
   john-shorter: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/journals/biorxiv.png
 - id: doi:10.1007/s00040-011-0210-x
   title: A review on self-destructive defense behaviors in social insects
   authors:
