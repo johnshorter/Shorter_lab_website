@@ -21,6 +21,14 @@
   object-fit: cover;
 }
 
+.feature[data-style=portrait] .feature-image {
+  aspect-ratio: 3/4;
+}
+
+.feature[data-style=portrait] .feature-image img {
+  object-fit: contain;
+}
+
 .feature-text {
   flex-grow: 1;
 }
