@@ -35,7 +35,7 @@ The lab is led by John Shorter, Associate Professor of Biomedical Data Science. 
 
 {% capture text %}
 
-A central aim of our research is to discover new mechanistic insights into disease etiology and then translate these insights into actionable strategies for patient care. By integrating genomics, epidemiology, and computational biology within a framework of personalized medicine, we aim to accelerate the translation of basic discoveries into improved patient outcomes.
+Read more about our latest publications!
 
 {%
   include button.html
@@ -59,7 +59,7 @@ A central aim of our research is to discover new mechanistic insights into disea
 
 {% capture text %}
 
-Read more about our latest projects!
+A central aim of our research is to discover new mechanistic insights into disease etiology and then translate these insights into actionable strategies for patient care. By integrating genomics, epidemiology, and computational biology within a framework of personalized medicine, we aim to accelerate the translation of basic discoveries into improved patient outcomes.
 
 {%
   include button.html
