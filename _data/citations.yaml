@@ -563,6 +563,7 @@
   file: sources.yaml
   image: images/journals/epilepsia.webp
 - id: doi:10.1101/858142
+  image: images/journals/biorxiv.png
   title: The Collaborative Cross Graphical Genome
   authors:
   - Hang Su

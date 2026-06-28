@@ -98,6 +98,10 @@
 - id: pubmed:41040734
   image: images/journals/medrxiv.png
 
+# bioRxiv / openRxiv (CC Graphical Genome preprint) — server logo
+- id: doi:10.1101/858142
+  image: images/journals/biorxiv.png
+
 # --- removed from the publication list ---
 
 # DOI duplicates of papers already present from PubMed (keep the PubMed copy).
