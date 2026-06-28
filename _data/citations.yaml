@@ -60,6 +60,7 @@
   file: sources.yaml
   image: images/journals/nature-genetics.png
 - id: pubmed:41040734
+  image: images/journals/medrxiv.png
   title: Genome-wide association study of adolescent-onset depression.
   authors:
   - Poppy Z Grimes
@@ -450,6 +451,7 @@
   file: sources.yaml
   image: images/journals/g3-2016.gif
 - id: pubmed:26226016
+  image: images/journals/plos-one.svg
   title: The Effects of Royal Jelly on Fitness Traits and Gene Expression in Drosophila
     melanogaster.
   authors:

@@ -90,6 +90,14 @@
 - id: pubmed:38808072
   image: images/journals/bioinformatics-advances.jpg
 
+# PLOS ONE (royal jelly paper) — journal logo
+- id: pubmed:26226016
+  image: images/journals/plos-one.svg
+
+# medRxiv (adolescent-onset depression preprint) — server logo
+- id: pubmed:41040734
+  image: images/journals/medrxiv.png
+
 # --- removed from the publication list ---
 
 # DOI duplicates of papers already present from PubMed (keep the PubMed copy).
