@@ -11,7 +11,7 @@ Our goal is to establish a framework for individualized treatment strategies in 
 
 {% capture text %}
 
-The lab is led by John Shorter, Associate Professor of Biomedical Data Science. Read about his path from insect genetics to precision medicine, and what drives the lab's work.
+The lab is led by John R. Shorter, Associate Professor of Biomedical Data Science. Read about his path from insect genetics to precision medicine, and what drives the lab's work.
 
 {%
   include button.html
