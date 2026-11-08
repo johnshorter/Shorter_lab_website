@@ -13,13 +13,12 @@
   publisher: Basic & clinical pharmacology & toxicology
   date: '2026-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41656002
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: sources.py
-  file: sources.yaml
   image: images/bcpt.v139.2.cover.gif
   description: Perampanel is a medicine used to prevent seizures. Led by Sara Angelucci,
     this study used routine therapeutic drug monitoring of Danish children with epilepsy
     to describe how children take up and clear the drug.
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:41233554
   title: Genome-wide association analyses identify distinct genetic architectures
     for early-onset and late-onset depression.
@@ -58,15 +57,14 @@
   publisher: Nature genetics
   date: '2025-11-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41233554
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: sources.py
-  file: sources.yaml
   image: images/journals/nature-genetics.png
   description: Depression that starts early in life and depression that starts later
     are partly different at the genetic level. Our genome-wide association analyses
     found distinct genetic architectures for early-onset and late-onset depression,
     which points to partly different biology depending on the age when depression
     begins.
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:41040734
   title: Genome-wide association study of adolescent-onset depression.
   authors:
@@ -143,10 +141,9 @@
   publisher: 'medRxiv : the preprint server for health sciences'
   date: '2025-09-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41040734
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/medrxiv.png
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/medrxiv.png
 - id: pubmed:40962829
   title: 'Associations of polygenic risk scores for major depression and depression
     severity: an investigation of 105 623 individuals with 16 years follow-up.'
@@ -169,10 +166,125 @@
   publisher: Molecular psychiatry
   date: '2025-09-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40962829
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/molecular-psychiatry.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/molecular-psychiatry.gif
+- id: doi:10.1016/j.jvacx.2025.100625
+  title: Vaccination against tick-borne encephalitis virus in Denmark, Norway and
+    Sweden
+  authors:
+  - Mette F. Hansen
+  - John Shorter
+  - Martin T. Jepsen
+  - Anders Boman
+  - Pikka Jokelainen
+  - Solveig Jore
+  - Daniel Slunge
+  - Karen A. Krogfelt
+  publisher: 'Vaccine: X'
+  date: '2025-06-01'
+  link: https://doi.org/g9bprv
+  image: images/journals/vaccine.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/jamapsychiatry.2024.1453
+  title: Population-Based Risk of Psychiatric Disorders Associated With Recurrent
+    Copy Number Variants
+  authors:
+  - Morteza Vaez
+  - Simone Montalbano
+  - "Xabier Calle S\xE1nchez"
+  - Kajsa-Lotta Georgii Hellberg
+  - Saeid Rasekhi Dehkordi
+  - Morten Dybdahl Krebs
+  - Joeri Meijsen
+  - John Shorter
+  - Jonas Bybjerg-Grauholm
+  - Preben B. Mortensen
+  - "Anders D. B\xF8rglum"
+  - David M. Hougaard
+  - Merete Nordentoft
+  - Daniel H. Geschwind
+  - Alfonso Buil
+  - Andrew J. Schork
+  - Dorte Helenius
+  - Armin Raznahan
+  - Wesley K. Thompson
+  - Thomas Werge
+  - "Andr\xE9s Ingason"
+  - "Anders D. B\xF8rglum"
+  - David M. Hougaard
+  - Merete Nordentoft
+  - Ole Mors
+  - Preben B. Mortensen
+  - Thomas Werge
+  - Jakob Grove
+  - Thomas D. Als
+  - Alfonso Buil
+  - Anders Rosengren
+  - "Andr\xE9s Ingason"
+  - Andrew J. Schork
+  - Dorte Helenius
+  - "Jesper G\xE5din"
+  - Richard Zetterberg
+  - Vivek Appadurai
+  - Joeri Meijsen
+  - Kajsa-Lotta Georgii Hellberg
+  - "Bjarni J. Vilhj\xE1lmsson"
+  - Carsten B. Pedersen
+  - Esben Agerbo
+  - Jakob Christensen
+  - Liselotte V. Petersen
+  - "Marianne Gj\xF8rtz Pedersen"
+  - Jonas Byberg-Grauholm
+  - "Marie B\xE6kvad-Hansen"
+  publisher: JAMA Psychiatry
+  date: '2024-10-02'
+  link: https://doi.org/g86s65
+  type: paper
+  image: images/journals/jama-psychiatry.png
+  description: Recurrent copy number variants (rCNVs) are stretches of DNA that are
+    deleted or duplicated in some people and have been linked to psychiatric disorders.
+    Using the population-based Danish iPSYCH case-cohort, we found that many rCNVs
+    are more common, and carry less risk of ADHD, autism, and schizophrenia-spectrum
+    disorders, than earlier case-control studies suggested. No rCNV raised the risk
+    of depression. Risk depended on how large the affected region was and how sensitive
+    its genes are to disruption, not on whether DNA was lost or gained.
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-024-49507-3
+  title: Quantifying the relative importance of genetics and environment on the comorbidity
+    between mental and cardiometabolic disorders using 17 million Scandinavians
+  authors:
+  - Joeri Meijsen
+  - Kejia Hu
+  - Morten D. Krebs
+  - Georgios Athanasiadis
+  - Sarah Washbrook
+  - Richard Zetterberg
+  - Raquel Nogueira Avelar e Silva
+  - John R. Shorter
+  - "Jesper R. G\xE5din"
+  - Jacob Bergstedt
+  - David M. Howard
+  - Weimin Ye
+  - Yi Lu
+  - "Unnur A. Valdimarsd\xF3ttir"
+  - "Andr\xE9s Ingason"
+  - Dorte Helenius
+  - Oleguer Plana-Ripoll
+  - John J. McGrath
+  - Nadia Micali
+  - Ole A. Andreassen
+  - Thomas M. Werge
+  - Fang Fang
+  - Alfonso Buil
+  publisher: Nature Communications
+  date: '2024-06-13'
+  link: https://doi.org/gt25tn
+  image: images/journals/nature-communications.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:38808072
   title: 'COSGAP: COntainerized Statistical Genetics Analysis Pipelines.'
   authors:
@@ -197,10 +309,9 @@
   publisher: Bioinformatics advances
   date: '2024-05-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38808072
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/bioinformatics-advances.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/bioinformatics-advances.jpg
 - id: pubmed:37265784
   title: Epidemiological overview of major depressive disorder in Scandinavia using
     nationwide registers.
@@ -231,10 +342,30 @@
   publisher: The Lancet regional health. Europe
   date: '2023-03-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37265784
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/the-lancet.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/the-lancet.jpg
+- id: doi:10.1016/j.biopsych.2022.01.007
+  title: Infection Polygenic Factors Account for a Small Proportion of the Relationship
+    Between Infections and Mental Disorders
+  authors:
+  - John R. Shorter
+  - Joeri Meijsen
+  - Ron Nudel
+  - Morten Krebs
+  - "Jesper G\xE5din"
+  - Dorte H. Mikkelsen
+  - Raquel Nogueira Avelar e Silva
+  - Michael E. Benros
+  - Wesley K. Thompson
+  - "Andr\xE9s Ingason"
+  - Thomas Werge
+  publisher: Biological Psychiatry
+  date: '2022-08-01'
+  link: https://doi.org/g86s5p
+  image: images/journals/biological-psychiatry.gif
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:33067325
   title: 'Content and Performance of the MiniMUGA Genotyping Array: A New Tool To
     Improve Rigor and Reproducibility in Mouse Research.'
@@ -311,10 +442,46 @@
   publisher: Genetics
   date: '2020-10-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33067325
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/genetics.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/genetics.gif
+- id: doi:10.1111/epi.16617
+  title: Collaborative Cross mice reveal extreme epilepsy phenotypes and genetic loci
+    for seizure susceptibility
+  authors:
+  - Bin Gu
+  - John R. Shorter
+  - Lucy H. Williams
+  - Timothy A. Bell
+  - Pablo Hock
+  - Katherine A. Dalton
+  - Yiyun Pan
+  - Darla R. Miller
+  - Ginger D. Shaw
+  - Benjamin D. Philpot
+  - "Fernando Pardo\u2010Manuel de Villena"
+  publisher: Epilepsia
+  date: '2020-08-27'
+  link: https://doi.org/g86s5z
+  image: images/journals/epilepsia.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/858142
+  title: The Collaborative Cross Graphical Genome
+  authors:
+  - Hang Su
+  - Ziwei Chen
+  - Jaytheert Rao
+  - Maya Najarian
+  - John Shorter
+  - Fernando Pardo Manuel de Villena
+  - Leonard McMillan
+  publisher: openRxiv
+  date: '2019-11-29'
+  link: https://doi.org/gktrkf
+  image: images/journals/biorxiv.png
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:30877080
   title: A Diallel of the Mouse Collaborative Cross Founders Reveals Strong Strain-Specific
     Maternal Effects on Litter Size.
@@ -332,10 +499,9 @@
   publisher: G3 (Bethesda, Md.)
   date: '2019-05-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30877080
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/g3-2019.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/g3-2019.gif
 - id: pubmed:30858237
   title: Whole Genome Sequencing and Progress Toward Full Inbreeding of the Mouse
     Collaborative Cross Population.
@@ -356,10 +522,9 @@
   publisher: G3 (Bethesda, Md.)
   date: '2019-05-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30858237
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/g3-2019.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/g3-2019.gif
 - id: pubmed:29279960
   title: Quantitative trait mapping in Diversity Outbred mice identifies two genomic
     regions associated with heart size.
@@ -376,10 +541,9 @@
     Society'
   date: '2017-12-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29279960
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/mammalian-genome.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/mammalian-genome.jpg
 - id: pubmed:28592496
   title: Male Infertility Is Responsible for Nearly Half of the Extinction Observed
     in the Mouse Collaborative Cross.
@@ -406,10 +570,9 @@
   publisher: Genetics
   date: '2017-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28592496
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/genetics-2017.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/genetics-2017.gif
 - id: pubmed:28592495
   title: Genomes of the Mouse Collaborative Cross.
   authors:
@@ -434,10 +597,9 @@
   publisher: Genetics
   date: '2017-06-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28592495
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/genetics-2017.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/genetics-2017.gif
 - id: pubmed:27558663
   title: Obp56h Modulates Mating Behavior in Drosophila melanogaster.
   authors:
@@ -454,10 +616,9 @@
   publisher: G3 (Bethesda, Md.)
   date: '2016-10-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27558663
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
+  image: images/journals/g3-2016.gif
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/g3-2016.gif
 - id: pubmed:26226016
   title: The Effects of Royal Jelly on Fitness Traits and Gene Expression in Drosophila
     melanogaster.
@@ -471,213 +632,7 @@
   publisher: PloS one
   date: '2015-07-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26226016
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: sources.py
-  file: sources.yaml
   image: images/journals/plos-one.svg
-- id: pubmed:22327626
-  title: A genetic analysis of the stinging and guarding behaviors of the honey bee.
-  authors:
-  - John R Shorter
-  - Miguel Arechavaleta-Velasco
-  - Carlos Robles-Rios
-  - Greg J Hunt
-  publisher: Behavior genetics
-  date: '2012-02-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22327626
-  term: Shorter, John R.[Author] NOT Greene, C[Author]
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/behavior-genetics.jpg
-- id: doi:10.1038/s41467-024-49507-3
-  title: Quantifying the relative importance of genetics and environment on the comorbidity
-    between mental and cardiometabolic disorders using 17 million Scandinavians
-  authors:
-  - Joeri Meijsen
-  - Kejia Hu
-  - Morten D. Krebs
-  - Georgios Athanasiadis
-  - Sarah Washbrook
-  - Richard Zetterberg
-  - Raquel Nogueira Avelar e Silva
-  - John R. Shorter
-  - "Jesper R. G\xE5din"
-  - Jacob Bergstedt
-  - David M. Howard
-  - Weimin Ye
-  - Yi Lu
-  - "Unnur A. Valdimarsd\xF3ttir"
-  - "Andr\xE9s Ingason"
-  - Dorte Helenius
-  - Oleguer Plana-Ripoll
-  - John J. McGrath
-  - Nadia Micali
-  - Ole A. Andreassen
-  - Thomas M. Werge
-  - Fang Fang
-  - Alfonso Buil
-  publisher: Nature Communications
-  date: '2024-06-13'
-  link: https://doi.org/gt25tn
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/nature-communications.jpg
-- id: doi:10.1016/j.biopsych.2022.01.007
-  title: Infection Polygenic Factors Account for a Small Proportion of the Relationship
-    Between Infections and Mental Disorders
-  authors:
-  - John R. Shorter
-  - Joeri Meijsen
-  - Ron Nudel
-  - Morten Krebs
-  - "Jesper G\xE5din"
-  - Dorte H. Mikkelsen
-  - Raquel Nogueira Avelar e Silva
-  - Michael E. Benros
-  - Wesley K. Thompson
-  - "Andr\xE9s Ingason"
-  - Thomas Werge
-  publisher: Biological Psychiatry
-  date: '2022-08-01'
-  link: https://doi.org/g86s5p
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/biological-psychiatry.gif
-- id: doi:10.1111/epi.16617
-  title: Collaborative Cross mice reveal extreme epilepsy phenotypes and genetic loci
-    for seizure susceptibility
-  authors:
-  - Bin Gu
-  - John R. Shorter
-  - Lucy H. Williams
-  - Timothy A. Bell
-  - Pablo Hock
-  - Katherine A. Dalton
-  - Yiyun Pan
-  - Darla R. Miller
-  - Ginger D. Shaw
-  - Benjamin D. Philpot
-  - "Fernando Pardo\u2010Manuel de Villena"
-  publisher: Epilepsia
-  date: '2020-08-27'
-  link: https://doi.org/g86s5z
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/epilepsia.webp
-- id: doi:10.1101/858142
-  title: The Collaborative Cross Graphical Genome
-  authors:
-  - Hang Su
-  - Ziwei Chen
-  - Jaytheert Rao
-  - Maya Najarian
-  - John Shorter
-  - Fernando Pardo Manuel de Villena
-  - Leonard McMillan
-  publisher: openRxiv
-  date: '2019-11-29'
-  link: https://doi.org/gktrkf
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/biorxiv.png
-- id: doi:10.1007/s00040-011-0210-x
-  title: A review on self-destructive defense behaviors in social insects
-  authors:
-  - J. R. Shorter
-  - O. Rueppell
-  publisher: Insectes Sociaux
-  date: '2011-12-04'
-  link: https://doi.org/frcrxw
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/insectes-sociaux.gif
-- id: doi:10.1007/s00040-008-1026-1
-  title: The effect of juvenile hormone on temporal polyethism in the paper wasp Polistes
-    dominulus
-  authors:
-  - J. R. Shorter
-  - E. A. Tibbetts
-  publisher: Insectes Sociaux
-  date: '2008-09-15'
-  link: https://doi.org/d5c73z
-  orcid: 0000-0003-4732-5526
-  john-shorter: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/journals/insectes-sociaux.gif
-- id: doi:10.1001/jamapsychiatry.2024.1453
-  title: Population-Based Risk of Psychiatric Disorders Associated With Recurrent
-    Copy Number Variants
-  authors:
-  - Morteza Vaez
-  - Simone Montalbano
-  - "Xabier Calle S\xE1nchez"
-  - Kajsa-Lotta Georgii Hellberg
-  - Saeid Rasekhi Dehkordi
-  - Morten Dybdahl Krebs
-  - Joeri Meijsen
-  - John Shorter
-  - Jonas Bybjerg-Grauholm
-  - Preben B. Mortensen
-  - "Anders D. B\xF8rglum"
-  - David M. Hougaard
-  - Merete Nordentoft
-  - Daniel H. Geschwind
-  - Alfonso Buil
-  - Andrew J. Schork
-  - Dorte Helenius
-  - Armin Raznahan
-  - Wesley K. Thompson
-  - Thomas Werge
-  - "Andr\xE9s Ingason"
-  - "Anders D. B\xF8rglum"
-  - David M. Hougaard
-  - Merete Nordentoft
-  - Ole Mors
-  - Preben B. Mortensen
-  - Thomas Werge
-  - Jakob Grove
-  - Thomas D. Als
-  - Alfonso Buil
-  - Anders Rosengren
-  - "Andr\xE9s Ingason"
-  - Andrew J. Schork
-  - Dorte Helenius
-  - "Jesper G\xE5din"
-  - Richard Zetterberg
-  - Vivek Appadurai
-  - Joeri Meijsen
-  - Kajsa-Lotta Georgii Hellberg
-  - "Bjarni J. Vilhj\xE1lmsson"
-  - Carsten B. Pedersen
-  - Esben Agerbo
-  - Jakob Christensen
-  - Liselotte V. Petersen
-  - "Marianne Gj\xF8rtz Pedersen"
-  - Jonas Byberg-Grauholm
-  - "Marie B\xE6kvad-Hansen"
-  publisher: JAMA Psychiatry
-  date: '2024-10-02'
-  link: https://doi.org/g86s65
-  type: paper
-  description: Recurrent copy number variants (rCNVs) are stretches of DNA that are
-    deleted or duplicated in some people and have been linked to psychiatric disorders.
-    Using the population-based Danish iPSYCH case-cohort, we found that many rCNVs
-    are more common, and carry less risk of ADHD, autism, and schizophrenia-spectrum
-    disorders, than earlier case-control studies suggested. No rCNV raised the risk
-    of depression. Risk depended on how large the affected region was and how sensitive
-    its genes are to disruption, not on whether DNA was lost or gained.
-  image: images/journals/jama-psychiatry.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1510104112
@@ -694,27 +649,33 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2015-06-22'
   link: https://doi.org/f7jk8v
-  plugin: sources.py
-  file: sources.yaml
   image: images/journals/pnas.png
-- id: doi:10.1016/j.jvacx.2025.100625
-  title: Vaccination against tick-borne encephalitis virus in Denmark, Norway and
-    Sweden
-  authors:
-  - Mette F. Hansen
-  - John Shorter
-  - Martin T. Jepsen
-  - Anders Boman
-  - Pikka Jokelainen
-  - Solveig Jore
-  - Daniel Slunge
-  - Karen A. Krogfelt
-  publisher: 'Vaccine: X'
-  date: '2025-06-01'
-  link: https://doi.org/g9bprv
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/vaccine.gif
+- id: pubmed:22327626
+  title: A genetic analysis of the stinging and guarding behaviors of the honey bee.
+  authors:
+  - John R Shorter
+  - Miguel Arechavaleta-Velasco
+  - Carlos Robles-Rios
+  - Greg J Hunt
+  publisher: Behavior genetics
+  date: '2012-02-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22327626
+  image: images/journals/behavior-genetics.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00040-011-0210-x
+  title: A review on self-destructive defense behaviors in social insects
+  authors:
+  - J. R. Shorter
+  - O. Rueppell
+  publisher: Insectes Sociaux
+  date: '2011-12-04'
+  link: https://doi.org/frcrxw
+  image: images/journals/insectes-sociaux.gif
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00265-009-0764-z
   title: How do fighting ability and nest value influence usurpation contests in Polistes
     wasps?
@@ -724,6 +685,18 @@
   publisher: Behavioral Ecology and Sociobiology
   date: '2009-04-25'
   link: https://doi.org/d4vpv6
+  image: images/journals/bes.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/journals/bes.jpg
+- id: doi:10.1007/s00040-008-1026-1
+  title: The effect of juvenile hormone on temporal polyethism in the paper wasp Polistes
+    dominulus
+  authors:
+  - J. R. Shorter
+  - E. A. Tibbetts
+  publisher: Insectes Sociaux
+  date: '2008-09-15'
+  link: https://doi.org/d5c73z
+  image: images/journals/insectes-sociaux.gif
+  plugin: sources.py
+  file: sources.yaml
