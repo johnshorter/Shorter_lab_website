@@ -1,157 +1,157 @@
-# Per-publication overrides merged into citations.yaml by the _cite process.
-# Journal cover images are hosted locally so the links don't expire.
+# The lab's publication list. This file is the source of truth: the PubMed and
+# ORCID searches are switched off, so only papers listed here appear on the site.
+#
+# To add a paper, add one entry with its DOI (or PubMed ID) and push:
+#   - id: doi:10.1234/example.5678
+# CI then fetches the title, authors, journal and date automatically (Manubot).
+#
+# Optional fields per paper (these override what Manubot finds):
+#   image:        journal cover, hosted locally under images/journals/
+#   description:  plain-language summary shown under the citation
+#   date / link:  fix a wrong date or point at a better landing page
+# To hide a paper, delete its entry.
 
-- id: doi:10.1001/jamapsychiatry.2024.1453
-  type: paper
-  description: "Recurrent copy number variants (rCNVs) are stretches of DNA that are deleted or duplicated in some people and have been linked to psychiatric disorders. Using the population-based Danish iPSYCH case-cohort, we found that many rCNVs are more common, and carry less risk of ADHD, autism, and schizophrenia-spectrum disorders, than earlier case-control studies suggested. No rCNV raised the risk of depression. Risk depended on how large the affected region was and how sensitive its genes are to disruption, not on whether DNA was lost or gained."
-  date: 2024-10-2
-  image: images/journals/jama-psychiatry.png
+# --- 2026 ---
 
-# --- papers not caught by the PubMed query or ORCID (added by DOI) ---
-# These are indexed under "Shorter J" (not "Shorter JR"), so the author query misses them.
-- id: doi:10.1073/pnas.1510104112      # PNAS 2015 — Drosophila aggressive behavior
-- id: doi:10.1016/j.jvacx.2025.100625  # Vaccine: X 2025 — tick-borne encephalitis vaccination
-- id: doi:10.1007/s00265-009-0764-z    # Behav Ecol Sociobiol 2009 — Polistes usurpation contests
-
-# --- journal cover images (keyed by publication id) ---
-
-# Nature Genetics (early/late-onset depression GWAS)
-- id: pubmed:41233554
-  image: images/journals/nature-genetics.png
-  description: "Depression that starts early in life and depression that starts later are partly different at the genetic level. Our genome-wide association analyses found distinct genetic architectures for early-onset and late-onset depression, which points to partly different biology depending on the age when depression begins."
-
-# Basic & Clinical Pharmacology & Toxicology (perampanel paper)
+# Basic & clinical pharmacology & toxicology: Pharmacokinetics of Perampanel in Danish Paediatric Patients With E...
 - id: pubmed:41656002
   image: images/bcpt.v139.2.cover.gif
-  description: "Perampanel is a medicine used to prevent seizures. Led by Sara Angelucci, this study used routine therapeutic drug monitoring of Danish children with epilepsy to describe how children take up and clear the drug."
+  description: Perampanel is a medicine used to prevent seizures. Led by Sara Angelucci, this study used routine therapeutic drug monitoring of Danish children with epilepsy to describe how children take up and clear the drug.
 
-# Nature Communications (genetics/environment comorbidity)
-- id: doi:10.1038/s41467-024-49507-3
-  image: images/journals/nature-communications.jpg
+# --- 2025 ---
 
-# Molecular Psychiatry (PRS for depression severity)
-- id: pubmed:40962829
-  image: images/journals/molecular-psychiatry.gif
+# Nature genetics: Genome-wide association analyses identify distinct genetic architec...
+- id: pubmed:41233554
+  image: images/journals/nature-genetics.png
+  description: Depression that starts early in life and depression that starts later are partly different at the genetic level. Our genome-wide association analyses found distinct genetic architectures for early-onset and late-onset depression, which points to partly different biology depending on the age when depression begins.
 
-# Biological Psychiatry (infection polygenic factors)
-- id: doi:10.1016/j.biopsych.2022.01.007
-  image: images/journals/biological-psychiatry.gif
-
-# The Lancet Regional Health – Europe (MDD epidemiology in Scandinavia)
-- id: pubmed:37265784
-  image: images/journals/the-lancet.jpg
-
-# Insectes Sociaux (two papers)
-- id: doi:10.1007/s00040-011-0210-x
-  image: images/journals/insectes-sociaux.gif
-- id: doi:10.1007/s00040-008-1026-1
-  image: images/journals/insectes-sociaux.gif
-
-# Genetics — MiniMUGA (2020), generic Genetics cover
-- id: pubmed:33067325
-  image: images/journals/genetics.gif
-# Genetics 2017 papers — the GSA "mouse" issue cover
-- id: pubmed:28592496
-  image: images/journals/genetics-2017.gif
-- id: pubmed:28592495
-  image: images/journals/genetics-2017.gif
-
-# Behavior Genetics
-- id: pubmed:22327626
-  image: images/journals/behavior-genetics.jpg
-
-# PNAS
-- id: doi:10.1073/pnas.1510104112
-  image: images/journals/pnas.png
-
-# Behavioral Ecology and Sociobiology
-- id: doi:10.1007/s00265-009-0764-z
-  image: images/journals/bes.jpg
-
-# Vaccine: X
-- id: doi:10.1016/j.jvacx.2025.100625
-  image: images/journals/vaccine.gif
-
-# G3 (Genes|Genomes|Genetics) — issue covers highlighting the work
-- id: pubmed:27558663            # Obp56h (2016)
-  image: images/journals/g3-2016.gif
-- id: pubmed:30858237            # CC whole-genome sequencing (2019)
-  image: images/journals/g3-2019.gif
-- id: pubmed:30877080            # CC diallel (2019)
-  image: images/journals/g3-2019.gif
-
-# Epilepsia
-- id: doi:10.1111/epi.16617
-  image: images/journals/epilepsia.webp
-
-# Mammalian Genome (DO heart-size paper; 2018 special-issue cover)
-- id: pubmed:29279960
-  image: images/journals/mammalian-genome.jpg
-
-# Bioinformatics Advances (COSGAP)
-- id: pubmed:38808072
-  image: images/journals/bioinformatics-advances.jpg
-
-# PLOS ONE (royal jelly paper) — journal logo
-- id: pubmed:26226016
-  image: images/journals/plos-one.svg
-
-# medRxiv (adolescent-onset depression preprint) — server logo
+# medRxiv : the preprint server for health sciences: Genome-wide association study of adolescent-onset depression.
 - id: pubmed:41040734
   image: images/journals/medrxiv.png
 
-# bioRxiv / openRxiv (CC Graphical Genome preprint) — server logo
+# Molecular psychiatry: Associations of polygenic risk scores for major depression and depr...
+- id: pubmed:40962829
+  image: images/journals/molecular-psychiatry.gif
+
+# Vaccine: X: Vaccination against tick-borne encephalitis virus in Denmark, Norwa...
+- id: doi:10.1016/j.jvacx.2025.100625
+  image: images/journals/vaccine.gif
+
+# --- 2024 ---
+
+# JAMA Psychiatry: Population-Based Risk of Psychiatric Disorders Associated With Recu...
+- id: doi:10.1001/jamapsychiatry.2024.1453
+  type: paper
+  date: 2024-10-2
+  image: images/journals/jama-psychiatry.png
+  description: Recurrent copy number variants (rCNVs) are stretches of DNA that are deleted or duplicated in some people and have been linked to psychiatric disorders. Using the population-based Danish iPSYCH case-cohort, we found that many rCNVs are more common, and carry less risk of ADHD, autism, and schizophrenia-spectrum disorders, than earlier case-control studies suggested. No rCNV raised the risk of depression. Risk depended on how large the affected region was and how sensitive its genes are to disruption, not on whether DNA was lost or gained.
+
+# Nature Communications: Quantifying the relative importance of genetics and environment on...
+- id: doi:10.1038/s41467-024-49507-3
+  date: 2024-06-13
+  link: "https://doi.org/gt25tn"
+  image: images/journals/nature-communications.jpg
+
+# Bioinformatics advances: COSGAP: COntainerized Statistical Genetics Analysis Pipelines.
+- id: pubmed:38808072
+  image: images/journals/bioinformatics-advances.jpg
+
+# --- 2023 ---
+
+# The Lancet regional health. Europe: Epidemiological overview of major depressive disorder in Scandinavi...
+- id: pubmed:37265784
+  image: images/journals/the-lancet.jpg
+
+# --- 2022 ---
+
+# Biological Psychiatry: Infection Polygenic Factors Account for a Small Proportion of the R...
+- id: doi:10.1016/j.biopsych.2022.01.007
+  date: 2022-08-01
+  link: "https://doi.org/g86s5p"
+  image: images/journals/biological-psychiatry.gif
+
+# --- 2020 ---
+
+# Genetics: Content and Performance of the MiniMUGA Genotyping Array: A New Too...
+- id: pubmed:33067325
+  image: images/journals/genetics.gif
+
+# Epilepsia: Collaborative Cross mice reveal extreme epilepsy phenotypes and gen...
+- id: doi:10.1111/epi.16617
+  date: 2020-08-27
+  link: "https://doi.org/g86s5z"
+  image: images/journals/epilepsia.webp
+
+# --- 2019 ---
+
+# openRxiv: The Collaborative Cross Graphical Genome
 - id: doi:10.1101/858142
+  date: 2019-11-29
+  link: "https://doi.org/gktrkf"
   image: images/journals/biorxiv.png
 
-# --- removed from the publication list ---
+# G3 (Bethesda, Md.): A Diallel of the Mouse Collaborative Cross Founders Reveals Strong...
+- id: pubmed:30877080
+  image: images/journals/g3-2019.gif
 
-# DOI duplicates of papers already present from PubMed (keep the PubMed copy).
-- id: doi:10.1038/s41588-025-02396-8
-  remove: true
-- id: doi:10.1111/bcpt.70209
-  remove: true
+# G3 (Bethesda, Md.): Whole Genome Sequencing and Progress Toward Full Inbreeding of the...
+- id: pubmed:30858237
+  image: images/journals/g3-2019.gif
 
-# PubMed copies of papers already present as DOI entries (keep the DOI copy).
-- id: pubmed:38871766
-  remove: true
-- id: pubmed:35305821
-  remove: true
-- id: pubmed:32852103
-  remove: true
+# --- 2017 ---
 
-# Preprints of published papers.
-- id: pubmed:38464139
-  remove: true
-- id: doi:10.1101/2020.03.12.989400
-  remove: true
-- id: doi:10.1101/690917
-  remove: true
-- id: doi:10.1101/458877
-  remove: true
+# Mammalian genome : official journal of the International Mammalian Genome Society: Quantitative trait mapping in Diversity Outbred mice identifies two...
+- id: pubmed:29279960
+  image: images/journals/mammalian-genome.jpg
 
-# Erratum/correction (not a separate publication).
-- id: pubmed:30515527
-  remove: true
-- id: doi:10.1007/s00335-018-9789-9
-  remove: true
+# Genetics: Male Infertility Is Responsible for Nearly Half of the Extinction O...
+- id: pubmed:28592496
+  image: images/journals/genetics-2017.gif
 
-# Conference / meeting abstracts (ECNP / European Neuropsychopharmacology).
-- id: doi:10.1016/J.EURONEURO.2022.07.259
-  remove: true
-- id: doi:10.1016/J.EURONEURO.2022.07.124
-  remove: true
-- id: doi:10.1016/J.EURONEURO.2022.07.165
-  remove: true
-- id: doi:10.1016/J.EURONEURO.2022.07.070
-  remove: true
-- id: doi:10.1016/J.EURONEURO.2021.07.163
-  remove: true
-- id: doi:10.1016/J.EURONEURO.2021.07.120
-  remove: true
+# Genetics: Genomes of the Mouse Collaborative Cross.
+- id: pubmed:28592495
+  image: images/journals/genetics-2017.gif
 
-# Web of Science duplicates.
-- id: wosuid:WOS:000714115400150
-  remove: true
-- id: wosuid:WOS:000850044000120
-  remove: true
+# --- 2016 ---
+
+# G3 (Bethesda, Md.): Obp56h Modulates Mating Behavior in Drosophila melanogaster.
+- id: pubmed:27558663
+  image: images/journals/g3-2016.gif
+
+# --- 2015 ---
+
+# PloS one: The Effects of Royal Jelly on Fitness Traits and Gene Expression in...
+- id: pubmed:26226016
+  image: images/journals/plos-one.svg
+
+# Proceedings of the National Academy of Sciences: Genetic architecture of natural variation in Drosophila melanogaste...
+- id: doi:10.1073/pnas.1510104112
+  image: images/journals/pnas.png
+
+# --- 2012 ---
+
+# Behavior genetics: A genetic analysis of the stinging and guarding behaviors of the ho...
+- id: pubmed:22327626
+  image: images/journals/behavior-genetics.jpg
+
+# --- 2011 ---
+
+# Insectes Sociaux: A review on self-destructive defense behaviors in social insects
+- id: doi:10.1007/s00040-011-0210-x
+  date: 2011-12-04
+  link: "https://doi.org/frcrxw"
+  image: images/journals/insectes-sociaux.gif
+
+# --- 2009 ---
+
+# Behavioral Ecology and Sociobiology: How do fighting ability and nest value influence usurpation contest...
+- id: doi:10.1007/s00265-009-0764-z
+  image: images/journals/bes.jpg
+
+# --- 2008 ---
+
+# Insectes Sociaux: The effect of juvenile hormone on temporal polyethism in the paper...
+- id: doi:10.1007/s00040-008-1026-1
+  date: 2008-09-15
+  link: "https://doi.org/d5c73z"
+  image: images/journals/insectes-sociaux.gif
