@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /feed.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }}: News</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <link href="{{ "feed.xml" | absolute_url }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ "news/" | absolute_url }}" rel="alternate" type="text/html"/>
+  <id>{{ "news/" | absolute_url }}</id>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author><name>John R. Shorter</name></author>
+  {%- for item in site.data.news %}
+  {%- assign date = item.date | append: "" -%}
+  {%- if date.size == 4 -%}
+    {%- assign iso = date | append: "-01-01" -%}
+  {%- else -%}
+    {%- assign iso = item.date | date: "%Y-%m-%d" -%}
+  {%- endif -%}
+  {%- if item.link contains "://" -%}
+    {%- assign link = item.link -%}
+  {%- elsif item.link -%}
+    {%- assign link = item.link | absolute_url -%}
+  {%- else -%}
+    {%- assign link = "news/" | absolute_url -%}
+  {%- endif -%}
+  {%- assign text = item.text | markdownify | strip_html | strip %}
+  <entry>
+    <title>{{ text | xml_escape }}</title>
+    <link href="{{ link | xml_escape }}"/>
+    <id>{{ "news/" | absolute_url }}#{{ iso }}-{{ forloop.index0 | minus: forloop.length | abs }}</id>
+    <updated>{{ iso }}T00:00:00Z</updated>
+    <summary type="html">{{ item.text | markdownify | xml_escape }}</summary>
+  </entry>
+  {%- endfor %}
+</feed>

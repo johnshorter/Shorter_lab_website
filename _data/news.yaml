@@ -1,0 +1,33 @@
+# Lab news, newest first. One item per line of news.
+#   date:  YYYY-MM-DD (shown as "Mar 2026"), or just YYYY when the month is unknown
+#   text:  one line, Markdown allowed (*italics*, **bold**, [links](...))
+#   link:  optional, adds an arrow link after the text (full URL or a site path like publications)
+#   image: optional, small thumbnail (path under images/)
+# The homepage shows the first 3 items; the News page shows all of them.
+
+- date: 2026-03-01
+  text: Sara Angelucci's study of perampanel in children with epilepsy is out in *Basic & Clinical Pharmacology & Toxicology*.
+  link: https://doi.org/10.1111/bcpt.70209
+
+- date: 2026
+  text: John joined the board of the Danish Society for Personalized Medicine.
+
+- date: 2025-11-13
+  text: Our genome-wide association study showing distinct genetic architectures for early- and late-onset depression is out in *Nature Genetics*.
+  link: https://doi.org/10.1038/s41588-025-02396-8
+
+- date: 2025
+  text: John was promoted to Associate Professor of Biomedical Data Science at Roskilde University.
+
+- date: 2025
+  text: John was nominated for Undervisningsprisen, Denmark's national university teaching award.
+
+- date: 2025
+  text: Jonatan Langer started his PhD in the lab, modelling hypothyroidism with Danish blood donor and registry data.
+
+- date: 2025
+  text: Esraa Ayad Al-Meshaiki defended her Master's thesis on CYP2C19 variants and clopidogrel response in stroke patients.
+
+- date: 2024-10-02
+  text: Our population-based study of psychiatric risk from recurrent copy number variants is out in *JAMA Psychiatry*.
+  link: https://doi.org/10.1001/jamapsychiatry.2024.1453

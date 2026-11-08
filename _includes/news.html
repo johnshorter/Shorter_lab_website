@@ -1,0 +1,35 @@
+{%- assign emptyarray = "" | split: "," -%}
+{%- assign items = site.data.news | default: emptyarray -%}
+{%- if include.limit -%}
+  {%- assign items = items | slice: 0, include.limit -%}
+{%- endif -%}
+
+<ul class="news-list">
+  {%- for item in items -%}
+    {%- assign date = item.date | append: "" -%}
+    {%- if date.size == 4 -%}
+      {%- assign shown = date -%}
+    {%- else -%}
+      {%- assign shown = item.date | date: "%b %Y" -%}
+    {%- endif -%}
+    {%- if item.link contains "://" -%}
+      {%- assign link = item.link -%}
+    {%- elsif item.link -%}
+      {%- assign link = item.link | relative_url -%}
+    {%- else -%}
+      {%- assign link = nil -%}
+    {%- endif %}
+  <li class="news-item">
+    <span class="news-date">{{ shown }}</span>
+    {%- if item.image %}
+    <img class="news-image" src="{{ item.image | relative_url | uri_escape }}" alt="" loading="lazy" {% include fallback.html %}>
+    {%- endif %}
+    <span class="news-text">
+      {{- item.text | markdownify | remove: "<p>" | remove: "</p>" | strip -}}
+      {%- if link %}
+      <a class="news-link" href="{{ link | uri_escape }}" aria-label="Read more">{% include icon.html icon="fa-solid fa-arrow-right" %}</a>
+      {%- endif -%}
+    </span>
+  </li>
+  {%- endfor %}
+</ul>

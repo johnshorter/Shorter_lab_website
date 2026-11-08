@@ -8,14 +8,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-bullhorn" %}News
 
-Occasional notes from the lab: new papers, grants, talks, and milestones.
+New papers, people, grants, and milestones from the lab. Plain-language summaries of our papers are on the [Publications]({{ "publications" | relative_url }}) page.
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
+{% include news.html %}

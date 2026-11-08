@@ -13,6 +13,7 @@
   publisher: Basic & clinical pharmacology & toxicology
   date: '2026-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41656002
+  description: "Perampanel is a medicine used to prevent seizures. Led by Sara Angelucci, this study used routine therapeutic drug monitoring of Danish children with epilepsy to describe how children take up and clear the drug."
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: sources.py
   file: sources.yaml
@@ -55,6 +56,7 @@
   publisher: Nature genetics
   date: '2025-11-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41233554
+  description: "Depression that starts early in life and depression that starts later are partly different at the genetic level. Our genome-wide association analyses found distinct genetic architectures for early-onset and late-onset depression, which points to partly different biology depending on the age when depression begins."
   term: Shorter, John R.[Author] NOT Greene, C[Author]
   plugin: sources.py
   file: sources.yaml
@@ -661,11 +663,8 @@
   publisher: JAMA Psychiatry
   date: '2024-10-02'
   link: https://doi.org/g86s65
+  description: "Recurrent copy number variants (rCNVs) are stretches of DNA that are deleted or duplicated in some people and have been linked to psychiatric disorders. Using the population-based Danish iPSYCH case-cohort, we found that many rCNVs are more common, and carry less risk of ADHD, autism, and schizophrenia-spectrum disorders, than earlier case-control studies suggested. No rCNV raised the risk of depression. Risk depended on how large the affected region was and how sensitive its genes are to disruption, not on whether DNA was lost or gained."
   type: paper
-  description: The objective of this project was to provide unbiased population-based
-    estimates of prevalence and risk associated with psychiatric disorders for rCNVs
-    and to compare risks across outcomes, rCNV dosage type (deletions or duplications),
-    and locus features.
   image: images/journals/jama-psychiatry.png
   plugin: sources.py
   file: sources.yaml

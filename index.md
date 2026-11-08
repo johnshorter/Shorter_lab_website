@@ -7,6 +7,21 @@ Our goal is to establish a framework for individualized treatment strategies in 
 
 {% include section.html %}
 
+## News
+
+{% include news.html limit=3 %}
+
+{%
+  include button.html
+  link="news"
+  text="All news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}

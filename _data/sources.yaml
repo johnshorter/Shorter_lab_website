@@ -3,7 +3,7 @@
 
 - id: doi:10.1001/jamapsychiatry.2024.1453
   type: paper
-  description: The objective of this project was to provide unbiased population-based estimates of prevalence and risk associated with psychiatric disorders for rCNVs and to compare risks across outcomes, rCNV dosage type (deletions or duplications), and locus features.
+  description: "Recurrent copy number variants (rCNVs) are stretches of DNA that are deleted or duplicated in some people and have been linked to psychiatric disorders. Using the population-based Danish iPSYCH case-cohort, we found that many rCNVs are more common, and carry less risk of ADHD, autism, and schizophrenia-spectrum disorders, than earlier case-control studies suggested. No rCNV raised the risk of depression. Risk depended on how large the affected region was and how sensitive its genes are to disruption, not on whether DNA was lost or gained."
   date: 2024-10-2
   image: images/journals/jama-psychiatry.png
 
@@ -18,10 +18,12 @@
 # Nature Genetics (early/late-onset depression GWAS)
 - id: pubmed:41233554
   image: images/journals/nature-genetics.png
+  description: "Depression that starts early in life and depression that starts later are partly different at the genetic level. Our genome-wide association analyses found distinct genetic architectures for early-onset and late-onset depression, which points to partly different biology depending on the age when depression begins."
 
 # Basic & Clinical Pharmacology & Toxicology (perampanel paper)
 - id: pubmed:41656002
   image: images/bcpt.v139.2.cover.gif
+  description: "Perampanel is a medicine used to prevent seizures. Led by Sara Angelucci, this study used routine therapeutic drug monitoring of Danish children with epilepsy to describe how children take up and clear the drug."
 
 # Nature Communications (genetics/environment comorbidity)
 - id: doi:10.1038/s41467-024-49507-3

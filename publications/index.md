@@ -1,6 +1,10 @@
 ---
 title: Publications
-redirect_from: /research/
+redirect_from:
+  - /research/
+  - /2025/03/09/post-1.html
+  - /2025/10/01/depression-architecture.html
+  - /2026/03/01/perampanel-paper.html
 nav:
   order: 2
   tooltip: Published works
