@@ -13,7 +13,6 @@
 - title: Thyroid function and early-onset depression
   subtitle: A bidirectional Mendelian randomization study
   group: depression
-  image:
   link:
   description: Led by Triinu Peters at University Hospital Essen (with Anke Hinney's group), in collaboration with John Shorter. A bidirectional two-sample Mendelian randomization study finding that causal links between thyroid function and depression are driven predominantly by early-onset MDD. Manuscript in preparation.
   repo:
@@ -30,7 +29,6 @@
 - title: TSH × smoking interaction GWAS
   subtitle: A genome-wide gene-by-environment study within the ThyroidOmics consortium
   group: thyroid
-  image:
   link:
   description: Part of the ThyroidOmics consortium, led by Alex Williams at the University of Leicester. A genome-wide SNP-by-smoking interaction study of thyroid-stimulating hormone (TSH); the lab contributes a Danish Blood Donor Study analysis to be meta-analyzed with the UK Biobank.
   repo:
@@ -39,7 +37,6 @@
 - title: Precision medicine in epilepsy
   subtitle: Pharmacogenetics and therapeutic drug monitoring in treatment-resistant epilepsy
   group: pharmacogenetics
-  image: images/photo.jpg
   link: https://onlinelibrary.wiley.com/doi/10.1111/bcpt.70209
   description: In collaboration with Dr. Allan Bayat at the Filadelfia epilepsy hospital in Dianalund, Denmark, using pharmacogenetics and therapeutic drug monitoring (TDM) to better understand and individualize antiepileptic treatment.
   repo:
@@ -47,7 +44,6 @@
 - title: CYP2C19 and individualized drug response
   subtitle: How CYP2C19 genetic variants shape clopidogrel efficacy in stroke patients
   group: pharmacogenetics
-  image: images/photo.jpg
   link:
   description: In collaboration with Michael Asger Andersen (Bispebjerg Hospital) and Morteza Vaez (Institute of Biological Psychiatry, Sct. Hans, Roskilde), studying how CYP2C19 genetic variants influence the efficacy and safety of clopidogrel in stroke patients.
   repo:
@@ -65,7 +61,6 @@
 - title: Genome-wide association study of adolescent-onset depression
   subtitle: In press at Nature Genetics
   group: in-progress
-  image:
   link: https://www.medrxiv.org/content/10.1101/2025.09.26.25335972
   description: A genome-wide association study of adolescent-onset depression, accepted at Nature Genetics (preprint on medRxiv).
   repo:

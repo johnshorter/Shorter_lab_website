@@ -49,7 +49,7 @@
 # Template for a report-based student project (copy, uncomment, and fill in):
 # - title: "<Project title>"
 #   subtitle: Bachelor project, Roskilde University (<year>)
-#   image: images/<figure>.png          # optional; omit for the fallback image
+#   image: images/<figure>.png          # optional; omit for a text-only card
 #   link: reports/<report-file>.pdf      # the hosted report PDF
 #   description: >-
 #     <One or two sentences on the project.> By <student names>.

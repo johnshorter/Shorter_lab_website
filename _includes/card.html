@@ -1,6 +1,7 @@
 {{ " " }}
 <div class="card" data-style="{{ include.style }}">
   {% assign image_href = include.image_link | default: include.link %}
+  {% if include.image and include.image != "" %}
   <a
     {% if image_href %}
       href="{{ image_href | relative_url | uri_escape }}"
@@ -15,6 +16,7 @@
       {% include fallback.html %}
     >
   </a>
+  {% endif %}
 
   <div class="card-text">
     {% if include.title %}
