@@ -5,6 +5,23 @@
 #   image: optional, small thumbnail (path under images/)
 # The homepage shows the first 3 items; the News page shows all of them.
 
+- date: 2026-11-01
+  text: John started the Academy of Science Communication (Formidlingsakademiet) at the Royal Danish Academy of Sciences and Letters, a seven-month programme in science writing, public speaking, video and social media.
+
+- date: 2026-09-09
+  text: Our study of how similarity between parents shapes the prevalence and heritability of psychiatric disorders is out in *JAMA Psychiatry*.
+  link: https://doi.org/10.1001/jamapsychiatry.2026.2712
+
+- date: 2026
+  text: Our multi-ancestry genome-wide association study of adolescent-onset depression has been accepted in *Nature Genetics*.
+  link: publications
+
+- date: 2026
+  text: The lab received a RUC Proof of Concept grant for OpenPGx, an open pharmacogenomic interpretation engine for clinical laboratories.
+
+- date: 2026
+  text: "John led the workshop *Taking a Seat at the Table: Leadership & CV Workshop* at the D3A Conference."
+
 - date: 2026-03-01
   text: Sara Angelucci's study of perampanel in children with epilepsy is out in *Basic & Clinical Pharmacology & Toxicology*.
   link: https://doi.org/10.1111/bcpt.70209

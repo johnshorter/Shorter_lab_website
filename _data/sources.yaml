@@ -13,6 +13,11 @@
 
 # --- 2026 ---
 
+# JAMA Psychiatry: Population-level implications of parental similarity for psychiatric disorders
+- id: doi:10.1001/jamapsychiatry.2026.2712
+  image: images/journals/jama-psychiatry.png
+  description: People often choose partners who resemble them, including for psychiatric disorders. This study estimates how that similarity between parents affects how common psychiatric disorders are in the population and how heritable they appear.
+
 # Basic & clinical pharmacology & toxicology: Pharmacokinetics of Perampanel in Danish Paediatric Patients With E...
 - id: pubmed:41656002
   image: images/bcpt.v139.2.cover.gif
@@ -28,6 +33,7 @@
 # medRxiv : the preprint server for health sciences: Genome-wide association study of adolescent-onset depression.
 - id: pubmed:41040734
   image: images/journals/medrxiv.png
+  description: "**Accepted in *Nature Genetics* (2026).** A multi-ancestry genome-wide association study of depression that begins in adolescence. This entry links to the preprint until the journal version is published."
 
 # Molecular psychiatry: Associations of polygenic risk scores for major depression and depr...
 - id: pubmed:40962829

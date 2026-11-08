@@ -43,7 +43,7 @@ Underneath all of it is a fascination with how genetic variation makes us who we
 ## Highlights
 
 - Nominated for the Undervisningsprisen, Denmark's national university teaching award, in 2025.
-- 23 peer-reviewed articles and over 1,100 citations, with first or senior authorship in journals including Nature Genetics, Nature Communications, JAMA Psychiatry, and Biological Psychiatry.
+- 24 peer-reviewed articles, plus one accepted in Nature Genetics, and over 1,300 citations, with first-author papers in journals including Nature Genetics, Biological Psychiatry, PNAS, and Genetics.
 - Work on depression genetics and suicide-risk prediction covered in Danish national media.
 
 {%
