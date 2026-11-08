@@ -26,7 +26,7 @@ sitemap: false
   {%- else -%}
     {%- assign link = "news/" | absolute_url -%}
   {%- endif -%}
-  {%- assign text = item.text | markdownify | strip_html | strip %}
+  {%- assign text = item.text | markdownify | strip_html | strip | replace: "&amp;", "&" %}
   <entry>
     <title>{{ text | xml_escape }}</title>
     <link href="{{ link | xml_escape }}"/>
