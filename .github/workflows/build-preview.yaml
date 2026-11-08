@@ -36,7 +36,7 @@ jobs:
         env:
           # posix-spawn (via jekyll-last-modified-at) fails to compile on newer
           # gcc, which makes incompatible-pointer-types an error by default
-          BUNDLE_BUILD__POSIX___SPAWN: "--with-cflags=-O2 -Wno-error=incompatible-pointer-types"
+          BUNDLE_BUILD__POSIX___SPAWN: "--with-cflags=-Wno-error=incompatible-pointer-types"
         with:
           ruby-version: "3.1"
           bundler-cache: true
