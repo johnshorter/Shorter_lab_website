@@ -5,7 +5,6 @@
 - title: Genetic architecture of early- and late-onset depression
   subtitle: Genome-wide association study across Nordic biobanks and registries
   group: depression
-  image: images/Figure 0 - graphical abstract.png
   link: https://doi.org/10.1038/s41588-025-02396-8
   description: A collaboration led by John Shorter at Roskilde University with researchers across four Nordic countries, showing that early- and late-onset depression have partly distinct genetic architectures.
   repo:
@@ -21,7 +20,6 @@
 - title: Hypothyroidism in the Danish Blood Donor Study
   subtitle: Characterizing and modeling thyroid disease before diagnosis
   group: thyroid
-  image: images/dbds_hypo.png
   link:
   description: In collaboration with Louise Torp Dalgaard at Roskilde University and Ole Birger Vesterager Pedersen (Department of Clinical Immunology, Zealand University Hospital). The project characterizes hypothyroidism in the DBDS and, in work led by PhD student Jonatan Langer, builds mathematical models of pre-diagnostic disease progression.
   repo:
@@ -52,7 +50,6 @@
 - title: Tutorial on creating Polygenic Risk Scores
   subtitle: A workshop presented at the Nordic Society of Human Genetics (NSHG)
   group: resources
-  image: images/NSHG2023_workshop.png
   link: https://github.com/johnshorter/NSHG-PM2023
   description: A detailed guide on using the Polygenic Score Catalog and building polygenic risk scores with LDpred2.
   repo:
